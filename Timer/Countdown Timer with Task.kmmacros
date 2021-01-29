@@ -20,8 +20,8 @@
 						<key>StyledText</key>
 						<data>
 						cnRmZAAAAAADAAAAAgAAAAcAAABU
-						WFQucnRmAQAAAC6lBgAAKwAAAAEA
-						AACdBgAAe1xydGYxXGFuc2lcYW5z
+						WFQucnRmAQAAAC7xBQAAKwAAAAEA
+						AADpBQAAe1xydGYxXGFuc2lcYW5z
 						aWNwZzEyNTJcY29jb2FydGYyNTc3
 						Clxjb2NvYXRleHRzY2FsaW5nMFxj
 						b2NvYXBsYXRmb3JtMHtcZm9udHRi
@@ -93,17 +93,9 @@
 						cm8gbmFtZWQgIgpcZjBcYiBDb3Vu
 						dGRvd24gVGltZXIgRGlzcGxheQpc
 						ZjFcYjAgIiwgYWxzbyBtYWRlIGJ5
-						IHRyb3kuXApcClZhbGlkIFRpbWVy
-						IER1cmF0aW9uIGlucHV0czpcClwK
-						LSAidGltZXIgNSIgbWVhbnMgYSA1
-						IG1pbiB0aW1lci5cCi0gInRpbWVy
-						IDVzIiBtZWFucyBhIDUgc2VjIHRp
-						bWVyLlwKLSAidGltZXIgMS41bSIg
-						bWVhbnMgYSAxLjUgbWluIHRpbWVy
-						LlwKLSAidGltZXIgMC41aCIgbWVh
-						bnMgYSAwLjUgaHIgdGltZXIufQEA
-						AAAjAAAAAQAAAAcAAABUWFQucnRm
-						EAAAAC2HFGC2AQAAAAAAAAAAAAA=
+						IHRyb3kufQEAAAAjAAAAAQAAAAcA
+						AABUWFQucnRmEAAAAAiJFGC2AQAA
+						AAAAAAAAAAA=
 						</data>
 						<key>Title</key>
 						<string>Release Notes</string>
@@ -130,11 +122,10 @@
 If no TASK name is needed, leave it blank.
 
 Valid TIMER DURATION inputs:
-
-- "timer 5" means a 5 min timer.
-- "timer 5s" means a 5 sec timer.
-- "timer 1.5m" means a 1.5 min timer.
-- "timer 0.5h" means a 0.5 hr timer.</string>
+  - "timer 5" means a 5 min timer.
+  - "timer 5s" means a 5 sec timer.
+  - "timer 1.5m" means a 1.5 min timer.
+  - "timer 0.5h" means a 0.5 hr timer.</string>
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>Title</key>
@@ -479,8 +470,8 @@ function SetClock() {
 						<key>StyledText</key>
 						<data>
 						cnRmZAAAAAADAAAAAgAAAAcAAABU
-						WFQucnRmAQAAAC51AgAAKwAAAAEA
-						AABtAgAAe1xydGYxXGFuc2lcYW5z
+						WFQucnRmAQAAAC55AgAAKwAAAAEA
+						AABxAgAAe1xydGYxXGFuc2lcYW5z
 						aWNwZzEyNTJcY29jb2FydGYyNTc3
 						Clxjb2NvYXRleHRzY2FsaW5nMFxj
 						b2NvYXBsYXRmb3JtMHtcZm9udHRi
@@ -503,15 +494,16 @@ function SetClock() {
 						YWN0aW9uIGJlbG93LiBJdCBpcyB1
 						c2VkIHRvIHRyaWdnZXIgdGhlICJr
 						ZXlkb3duIiBldmVudCBmdW5jdGlv
-						biBpbiBqYXZhc2NyaXB0IGFib3Zl
-						LlwKRm9yIHVua25vd24gcmVhc29u
-						LCBJIGNhbid0IGdldCB0aGUgIndp
-						bmRvdy5LZXlib2FyZE1hZXN0cm8u
-						UmVzaXplV2luZG93IiBmdW5jdGlv
-						biB0byB3b3JrIHdpdGhvdXQgYW4g
-						ZXh0ZXJuYWwgdHJpZ2dlci59AQAA
-						ACMAAAABAAAABwAAAFRYVC5ydGYQ
-						AAAAkYYUYLYBAAAAAAAAAAAAAA==
+						biBpbiB0aGUgamF2YXNjcmlwdCBh
+						Ym92ZS5cCkZvciB1bmtub3duIHJl
+						YXNvbiwgSSBjYW4ndCBnZXQgdGhl
+						ICJ3aW5kb3cuS2V5Ym9hcmRNYWVz
+						dHJvLlJlc2l6ZVdpbmRvdyIgZnVu
+						Y3Rpb24gdG8gd29yayB3aXRob3V0
+						IGFuIGV4dGVybmFsIHRyaWdnZXIu
+						fQEAAAAjAAAAAQAAAAcAAABUWFQu
+						cnRmEAAAAEONFGC2AQAAAAAAAAAA
+						AAA=
 						</data>
 						<key>Title</key>
 						<string>Note: Do not delete the "Return" key stroke action below.</string>
@@ -534,7 +526,7 @@ function SetClock() {
 				<key>CreationDate</key>
 				<real>633573157.30996597</real>
 				<key>ModificationDate</key>
-				<real>633650860.78630602</real>
+				<real>633652418.20855403</real>
 				<key>Name</key>
 				<string>Countdown Timer with Task</string>
 				<key>Triggers</key>
