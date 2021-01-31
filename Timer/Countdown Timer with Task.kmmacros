@@ -20,8 +20,8 @@
 						<key>StyledText</key>
 						<data>
 						cnRmZAAAAAADAAAAAgAAAAcAAABU
-						WFQucnRmAQAAAC7yBQAAKwAAAAEA
-						AADqBQAAe1xydGYxXGFuc2lcYW5z
+						WFQucnRmAQAAAC7xBQAAKwAAAAEA
+						AADpBQAAe1xydGYxXGFuc2lcYW5z
 						aWNwZzEyNTJcY29jb2FydGYyNTc3
 						Clxjb2NvYXRleHRzY2FsaW5nMFxj
 						b2NvYXBsYXRmb3JtMHtcZm9udHRi
@@ -51,51 +51,51 @@
 						ZWF0ZWQgCQpcZjFcYjAgOiAwMS8y
 						OC8yMDIxLCA3OjIyIFBNIEVUXAoK
 						XGYwXGIgTW9kaWZpZWQKXGYxXGIw
-						IAk6IDAxLzMxLzIwMjEsIDEyOjI2
-						IEFNIEVUXAoKXGYwXGIgVmVyc2lv
-						bgpcZjFcYjAgCTogMS4xXApcCgpc
-						ZjBcYiBQdXJwb3NlOlwKXHBhcmRc
+						IAk6IDAxLzMxLzIwMjEsIDE6NTcg
+						UE0gRVRcCgpcZjBcYiBWZXJzaW9u
+						ClxmMVxiMCAJOiAxLjJcClwKClxm
+						MFxiIFB1cnBvc2U6XApccGFyZFx0
+						eDU2MFx0eDExMjBcdHgxNjgwXHR4
+						MjI0MFx0eDI4MDBcdHgzMzYwXHR4
+						MzkyMFx0eDQ0ODBcdHg1MDQwXHR4
+						NTYwMFx0eDYxNjBcdHg2NzIwXHBh
+						cmRpcm5hdHVyYWxccGFydGlnaHRl
+						bmZhY3RvcjAKClxmMVxiMCBcY2Yy
+						IFNldCBUaW1lci5cClwKXHBhcmRc
 						dHg1NjBcdHgxMTIwXHR4MTY4MFx0
 						eDIyNDBcdHgyODAwXHR4MzM2MFx0
 						eDM5MjBcdHg0NDgwXHR4NTA0MFx0
 						eDU2MDBcdHg2MTYwXHR4NjcyMFxw
 						YXJkaXJuYXR1cmFsXHBhcnRpZ2h0
-						ZW5mYWN0b3IwCgpcZjFcYjAgXGNm
-						MiBTZXQgVGltZXIuXApcClxwYXJk
-						XHR4NTYwXHR4MTEyMFx0eDE2ODBc
-						dHgyMjQwXHR4MjgwMFx0eDMzNjBc
-						dHgzOTIwXHR4NDQ4MFx0eDUwNDBc
-						dHg1NjAwXHR4NjE2MFx0eDY3MjBc
-						cGFyZGlybmF0dXJhbFxwYXJ0aWdo
-						dGVuZmFjdG9yMAoKXGYwXGIgXGNm
-						MiBDb21tZW50OlwKXHBhcmRcdHg1
-						NjBcdHgxMTIwXHR4MTY4MFx0eDIy
-						NDBcdHgyODAwXHR4MzM2MFx0eDM5
-						MjBcdHg0NDgwXHR4NTA0MFx0eDU2
-						MDBcdHg2MTYwXHR4NjcyMFxwYXJk
-						aXJuYXR1cmFsXHBhcnRpZ2h0ZW5m
-						YWN0b3IwCgpcZjFcYjAgXGNmMiBU
-						aGlzIG1hY3JvIGlzIGFkcHRlZCBm
-						cm9tIHRyb3kncyB7XGZpZWxke1wq
-						XGZsZGluc3R7SFlQRVJMSU5LICJo
-						dHRwczovL2ZvcnVtLmtleWJvYXJk
-						bWFlc3Ryby5jb20vdC9zaW1wbGlz
-						dGljLWNvdW50ZG93bi10aW1lci85
-						NDMwIn19e1xmbGRyc2x0IFxjZjMg
+						ZW5mYWN0b3IwCgpcZjBcYiBcY2Yy
+						IENvbW1lbnQ6XApccGFyZFx0eDU2
+						MFx0eDExMjBcdHgxNjgwXHR4MjI0
+						MFx0eDI4MDBcdHgzMzYwXHR4Mzky
+						MFx0eDQ0ODBcdHg1MDQwXHR4NTYw
+						MFx0eDYxNjBcdHg2NzIwXHBhcmRp
+						cm5hdHVyYWxccGFydGlnaHRlbmZh
+						Y3RvcjAKClxmMVxiMCBcY2YyIFRo
+						aXMgbWFjcm8gaXMgYWRwdGVkIGZy
+						b20gdHJveSdzIHtcZmllbGR7XCpc
+						ZmxkaW5zdHtIWVBFUkxJTksgImh0
+						dHBzOi8vZm9ydW0ua2V5Ym9hcmRt
+						YWVzdHJvLmNvbS90L3NpbXBsaXN0
+						aWMtY291bnRkb3duLXRpbWVyLzk0
+						MzAifX17XGZsZHJzbHQgXGNmMyBc
+						Y2I0IFxleHBuZDBcZXhwbmR0dzBc
+						a2VybmluZzAKU2ltcGxpc3RpYyBD
+						b3VudGRvd24gVGltZXJ9fVxjZjMg
 						XGNiNCBcZXhwbmQwXGV4cG5kdHcw
-						XGtlcm5pbmcwClNpbXBsaXN0aWMg
-						Q291bnRkb3duIFRpbWVyfX1cY2Yz
-						IFxjYjQgXGV4cG5kMFxleHBuZHR3
-						MFxrZXJuaW5nMAouXApcY2YyIFxj
-						YjEgXGtlcm5pbmcxXGV4cG5kMFxl
-						eHBuZHR3MCBUaGlzIG1hY3JvIHdp
-						bGwgY2FsbCBhbm90aGVyIEtNIG1h
-						Y3JvIG5hbWVkICIKXGYwXGIgQ291
-						bnRkb3duIFRpbWVyIERpc3BsYXkK
-						XGYxXGIwICIsIGFsc28gbWFkZSBi
-						eSB0cm95Ln0BAAAAIwAAAAEAAAAH
-						AAAAVFhULnJ0ZhAAAABuPxZgtgEA
-						AAAAAAAAAAAA
+						XGtlcm5pbmcwCi5cClxjZjIgXGNi
+						MSBca2VybmluZzFcZXhwbmQwXGV4
+						cG5kdHcwIFRoaXMgbWFjcm8gd2ls
+						bCBjYWxsIGFub3RoZXIgS00gbWFj
+						cm8gbmFtZWQgIgpcZjBcYiBDb3Vu
+						dGRvd24gVGltZXIgRGlzcGxheQpc
+						ZjFcYjAgIiwgYWxzbyBtYWRlIGJ5
+						IHRyb3kufQEAAAAjAAAAAQAAAAcA
+						AABUWFQucnRmEAAAAIP9FmC2AQAA
+						AAAAAAAAAAA=
 						</data>
 						<key>Title</key>
 						<string>Release Notes</string>
@@ -418,18 +418,6 @@ window.endTime = Date.parse(new Date()) + window.KeyboardMaestro.GetVariable( "M
 SetClock();
 
 function KMInit() {
-
-	window.addEventListener("keydown", function(e){
-      		if(e.keyCode == 13) {  	// "13" = "Enter" key.
-			var task = window.KeyboardMaestro.GetVariable( "Task" );
-			if(task == '') {
-				window.KeyboardMaestro.ResizeWindow( '0,500,110,45' );
-			} else {
-				window.KeyboardMaestro.ResizeWindow( '0,500,120,80' );
-			}
-		}
-	});
-
 	var timeinterval = setInterval(function(){
 		SetClock();
 		if( !SetClock() ){
@@ -438,6 +426,18 @@ function KMInit() {
 			window.KeyboardMaestro.Trigger( "Countdown Timer Display", "Trigger Value" );
 		}
 	},1000);
+}
+
+function KMWindow() {
+	var task = window.KeyboardMaestro.GetVariable( "Task" );
+	winWidth = task.replace(/[^\u0000-\u00ff]/g,"aa").length*18;
+	if(task == '') {
+		return "0,500,110,45";
+	} else if (winWidth &lt; 110) {
+		return "0,500,120,80";
+	} else {
+		return "0,500," + winWidth + ",80";
+	}
 }
 
 function SetClock() {
@@ -451,7 +451,6 @@ function SetClock() {
 	var minutes = Math.floor(t/1000/60);
 	clock.innerHTML = task + ' ' + minutes + ':' + ("0" + seconds).slice(-2);
 	return t &gt; 0; 
-
 }
 
 &lt;/script&gt;
@@ -464,67 +463,11 @@ function SetClock() {
 						<key>UseText</key>
 						<true/>
 					</dict>
-					<dict>
-						<key>ActionColor</key>
-						<string>Purple</string>
-						<key>MacroActionType</key>
-						<string>Comment</string>
-						<key>StyledText</key>
-						<data>
-						cnRmZAAAAAADAAAAAgAAAAcAAABU
-						WFQucnRmAQAAAC4xAgAAKwAAAAEA
-						AAApAgAAe1xydGYxXGFuc2lcYW5z
-						aWNwZzEyNTJcY29jb2FydGYyNTc3
-						Clxjb2NvYXRleHRzY2FsaW5nMFxj
-						b2NvYXBsYXRmb3JtMHtcZm9udHRi
-						bFxmMFxmc3dpc3NcZmNoYXJzZXQw
-						IEhlbHZldGljYTt9CntcY29sb3J0
-						Ymw7XHJlZDI1NVxncmVlbjI1NVxi
-						bHVlMjU1O1xyZWQwXGdyZWVuMFxi
-						bHVlMDt9CntcKlxleHBhbmRlZGNv
-						bG9ydGJsOztcY3NzcmdiXGMwXGMw
-						XGMwXGM4NDcwNlxjbmFtZSBjb250
-						cm9sVGV4dENvbG9yO30KXHBhcmRc
-						dHg1NjBcdHgxMTIwXHR4MTY4MFx0
-						eDIyNDBcdHgyODAwXHR4MzM2MFx0
-						eDM5MjBcdHg0NDgwXHR4NTA0MFx0
-						eDU2MDBcdHg2MTYwXHR4NjcyMFxw
-						YXJkaXJuYXR1cmFsXHBhcnRpZ2h0
-						ZW5mYWN0b3IwCgpcZjBcZnMyNiBc
-						Y2YyIEl0IGlzIHVzZWQgdG8gdHJp
-						Z2dlciB0aGUgImtleWRvd24iIGV2
-						ZW50IGZ1bmN0aW9uIGluIHRoZSBq
-						YXZhc2NyaXB0IGFib3ZlLlwKSSBj
-						YW4ndCBnZXQgdGhlICJ3aW5kb3cu
-						S2V5Ym9hcmRNYWVzdHJvLlJlc2l6
-						ZVdpbmRvdyIgZnVuY3Rpb24gdG8g
-						d29yayB3aXRob3V0IGFuIGV4dGVy
-						bmFsIHRyaWdnZXIufQEAAAAjAAAA
-						AQAAAAcAAABUWFQucnRmEAAAALo8
-						FmC2AQAAAAAAAAAAAAA=
-						</data>
-						<key>Title</key>
-						<string>Note: Do not delete the "Return" key stroke action below.</string>
-					</dict>
-					<dict>
-						<key>KeyCode</key>
-						<integer>36</integer>
-						<key>MacroActionType</key>
-						<string>SimulateKeystroke</string>
-						<key>Modifiers</key>
-						<integer>0</integer>
-						<key>ReleaseAll</key>
-						<false/>
-						<key>TargetApplication</key>
-						<dict/>
-						<key>TargetingType</key>
-						<string>Front</string>
-					</dict>
 				</array>
 				<key>CreationDate</key>
 				<real>633573157.30996597</real>
 				<key>ModificationDate</key>
-				<real>633763565.65436804</real>
+				<real>633812226.50160801</real>
 				<key>Name</key>
 				<string>Countdown Timer with Task</string>
 				<key>Triggers</key>
