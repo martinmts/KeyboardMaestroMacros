@@ -20,8 +20,8 @@
 						<key>StyledText</key>
 						<data>
 						cnRmZAAAAAADAAAAAgAAAAcAAABU
-						WFQucnRmAQAAAC7xBQAAKwAAAAEA
-						AADpBQAAe1xydGYxXGFuc2lcYW5z
+						WFQucnRmAQAAAC7yBQAAKwAAAAEA
+						AADqBQAAe1xydGYxXGFuc2lcYW5z
 						aWNwZzEyNTJcY29jb2FydGYyNTc3
 						Clxjb2NvYXRleHRzY2FsaW5nMFxj
 						b2NvYXBsYXRmb3JtMHtcZm9udHRi
@@ -51,51 +51,51 @@
 						ZWF0ZWQgCQpcZjFcYjAgOiAwMS8y
 						OC8yMDIxLCA3OjIyIFBNIEVUXAoK
 						XGYwXGIgTW9kaWZpZWQKXGYxXGIw
-						IAk6IDAxLzI5LzIwMjEsIDU6MDcg
-						UE0gRVRcCgpcZjBcYiBWZXJzaW9u
-						ClxmMVxiMCAJOiAxLjFcClwKClxm
-						MFxiIFB1cnBvc2U6XApccGFyZFx0
-						eDU2MFx0eDExMjBcdHgxNjgwXHR4
-						MjI0MFx0eDI4MDBcdHgzMzYwXHR4
-						MzkyMFx0eDQ0ODBcdHg1MDQwXHR4
-						NTYwMFx0eDYxNjBcdHg2NzIwXHBh
-						cmRpcm5hdHVyYWxccGFydGlnaHRl
-						bmZhY3RvcjAKClxmMVxiMCBcY2Yy
-						IFNldCBUaW1lci5cClwKXHBhcmRc
+						IAk6IDAxLzMxLzIwMjEsIDEyOjI2
+						IEFNIEVUXAoKXGYwXGIgVmVyc2lv
+						bgpcZjFcYjAgCTogMS4xXApcCgpc
+						ZjBcYiBQdXJwb3NlOlwKXHBhcmRc
 						dHg1NjBcdHgxMTIwXHR4MTY4MFx0
 						eDIyNDBcdHgyODAwXHR4MzM2MFx0
 						eDM5MjBcdHg0NDgwXHR4NTA0MFx0
 						eDU2MDBcdHg2MTYwXHR4NjcyMFxw
 						YXJkaXJuYXR1cmFsXHBhcnRpZ2h0
-						ZW5mYWN0b3IwCgpcZjBcYiBcY2Yy
-						IENvbW1lbnQ6XApccGFyZFx0eDU2
-						MFx0eDExMjBcdHgxNjgwXHR4MjI0
-						MFx0eDI4MDBcdHgzMzYwXHR4Mzky
-						MFx0eDQ0ODBcdHg1MDQwXHR4NTYw
-						MFx0eDYxNjBcdHg2NzIwXHBhcmRp
-						cm5hdHVyYWxccGFydGlnaHRlbmZh
-						Y3RvcjAKClxmMVxiMCBcY2YyIFRo
-						aXMgbWFjcm8gaXMgYWRwdGVkIGZy
-						b20gdHJveSdzIHtcZmllbGR7XCpc
-						ZmxkaW5zdHtIWVBFUkxJTksgImh0
-						dHBzOi8vZm9ydW0ua2V5Ym9hcmRt
-						YWVzdHJvLmNvbS90L3NpbXBsaXN0
-						aWMtY291bnRkb3duLXRpbWVyLzk0
-						MzAifX17XGZsZHJzbHQgXGNmMyBc
-						Y2I0IFxleHBuZDBcZXhwbmR0dzBc
-						a2VybmluZzAKU2ltcGxpc3RpYyBD
-						b3VudGRvd24gVGltZXJ9fVxjZjMg
+						ZW5mYWN0b3IwCgpcZjFcYjAgXGNm
+						MiBTZXQgVGltZXIuXApcClxwYXJk
+						XHR4NTYwXHR4MTEyMFx0eDE2ODBc
+						dHgyMjQwXHR4MjgwMFx0eDMzNjBc
+						dHgzOTIwXHR4NDQ4MFx0eDUwNDBc
+						dHg1NjAwXHR4NjE2MFx0eDY3MjBc
+						cGFyZGlybmF0dXJhbFxwYXJ0aWdo
+						dGVuZmFjdG9yMAoKXGYwXGIgXGNm
+						MiBDb21tZW50OlwKXHBhcmRcdHg1
+						NjBcdHgxMTIwXHR4MTY4MFx0eDIy
+						NDBcdHgyODAwXHR4MzM2MFx0eDM5
+						MjBcdHg0NDgwXHR4NTA0MFx0eDU2
+						MDBcdHg2MTYwXHR4NjcyMFxwYXJk
+						aXJuYXR1cmFsXHBhcnRpZ2h0ZW5m
+						YWN0b3IwCgpcZjFcYjAgXGNmMiBU
+						aGlzIG1hY3JvIGlzIGFkcHRlZCBm
+						cm9tIHRyb3kncyB7XGZpZWxke1wq
+						XGZsZGluc3R7SFlQRVJMSU5LICJo
+						dHRwczovL2ZvcnVtLmtleWJvYXJk
+						bWFlc3Ryby5jb20vdC9zaW1wbGlz
+						dGljLWNvdW50ZG93bi10aW1lci85
+						NDMwIn19e1xmbGRyc2x0IFxjZjMg
 						XGNiNCBcZXhwbmQwXGV4cG5kdHcw
-						XGtlcm5pbmcwCi5cClxjZjIgXGNi
-						MSBca2VybmluZzFcZXhwbmQwXGV4
-						cG5kdHcwIFRoaXMgbWFjcm8gd2ls
-						bCBjYWxsIGFub3RoZXIgS00gbWFj
-						cm8gbmFtZWQgIgpcZjBcYiBDb3Vu
-						dGRvd24gVGltZXIgRGlzcGxheQpc
-						ZjFcYjAgIiwgYWxzbyBtYWRlIGJ5
-						IHRyb3kufQEAAAAjAAAAAQAAAAcA
-						AABUWFQucnRmEAAAAAiJFGC2AQAA
-						AAAAAAAAAAA=
+						XGtlcm5pbmcwClNpbXBsaXN0aWMg
+						Q291bnRkb3duIFRpbWVyfX1cY2Yz
+						IFxjYjQgXGV4cG5kMFxleHBuZHR3
+						MFxrZXJuaW5nMAouXApcY2YyIFxj
+						YjEgXGtlcm5pbmcxXGV4cG5kMFxl
+						eHBuZHR3MCBUaGlzIG1hY3JvIHdp
+						bGwgY2FsbCBhbm90aGVyIEtNIG1h
+						Y3JvIG5hbWVkICIKXGYwXGIgQ291
+						bnRkb3duIFRpbWVyIERpc3BsYXkK
+						XGYxXGIwICIsIGFsc28gbWFkZSBi
+						eSB0cm95Ln0BAAAAIwAAAAEAAAAH
+						AAAAVFhULnJ0ZhAAAABuPxZgtgEA
+						AAAAAAAAAAAA
 						</data>
 						<key>Title</key>
 						<string>Release Notes</string>
@@ -122,10 +122,10 @@
 If no TASK name is needed, leave it blank.
 
 Valid TIMER DURATION inputs:
-  - "timer 5" means a 5 min timer.
-  - "timer 5s" means a 5 sec timer.
-  - "timer 1.5m" means a 1.5 min timer.
-  - "timer 0.5h" means a 0.5 hr timer.</string>
+  - "5" means a 5 min timer.
+  - "5s" means a 5 sec timer.
+  - "1.5m" means a 1.5 min timer.
+  - "0.5h" means a 0.5 hr timer.</string>
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>Title</key>
@@ -276,8 +276,8 @@ Valid TIMER DURATION inputs:
 								cnRmZAAAAAAD
 								AAAAAgAAAAcA
 								AABUWFQucnRm
-								AQAAAC47AgAA
-								KwAAAAEAAAAz
+								AQAAAC4sAgAA
+								KwAAAAEAAAAk
 								AgAAe1xydGYx
 								XGFuc2lcYW5z
 								aWNwZzEyNTJc
@@ -322,38 +322,36 @@ Valid TIMER DURATION inputs:
 								ZnMyNiBcY2Yy
 								IFBsZWFzZSB1
 								c2UgYSB2YWxp
-								ZCBhcmd1bWVu
-								dCBpbiBBbGZy
-								ZWQ6XApcCi0g
-								InRpbWVyIDUi
-								IG1lYW5zIGEg
-								NSBtaW4gdGlt
-								ZXIuXAotICJ0
-								aW1lciA1cyIg
-								bWVhbnMgYSA1
-								IHNlYyB0aW1l
-								ci5cCi0gInRp
-								bWVyIDEuNW0i
+								ZCB0aW1lciBk
+								dXJhdGlvbiBp
+								biB0aGUgZmll
+								bGQ6XApcCi0g
+								IjUiIG1lYW5z
+								IGEgNSBtaW4g
+								dGltZXIuXAot
+								ICI1cyIgbWVh
+								bnMgYSA1IHNl
+								YyB0aW1lci5c
+								Ci0gIjEuNW0i
 								IG1lYW5zIGEg
 								MS41IG1pbiB0
 								aW1lci5cCi0g
-								InRpbWVyIDAu
-								NWgiIG1lYW5z
-								IGEgMC41IGhy
-								IHRpbWVyLn0B
-								AAAAIwAAAAEA
-								AAAHAAAAVFhU
-								LnJ0ZhAAAABo
-								FRNgtgEAAAAA
-								AAAAAAAA
+								IjAuNWgiIG1l
+								YW5zIGEgMC41
+								IGhyIHRpbWVy
+								Ln0BAAAAIwAA
+								AAEAAAAHAAAA
+								VFhULnJ0ZhAA
+								AACAPhZgtgEA
+								AAAAAAAAAAAA
 										</data>
 										<key>Text</key>
-										<string>Please use a valid argument in Alfred:
+										<string>Please use a valid timer duration in the field:
 
-- "timer 5" means a 5 min timer.
-- "timer 5s" means a 5 sec timer.
-- "timer 1.5m" means a 1.5 min timer.
-- "timer 0.5h" means a 0.5 hr timer.</string>
+- "5" means a 5 min timer.
+- "5s" means a 5 sec timer.
+- "1.5m" means a 1.5 min timer.
+- "0.5h" means a 0.5 hr timer.</string>
 									</dict>
 									<dict>
 										<key>Action</key>
@@ -526,7 +524,7 @@ function SetClock() {
 				<key>CreationDate</key>
 				<real>633573157.30996597</real>
 				<key>ModificationDate</key>
-				<real>633762947.73290002</real>
+				<real>633763565.65436804</real>
 				<key>Name</key>
 				<string>Countdown Timer with Task</string>
 				<key>Triggers</key>
