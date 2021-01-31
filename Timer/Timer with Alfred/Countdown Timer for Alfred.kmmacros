@@ -340,8 +340,6 @@
 								<string></string>
 							</dict>
 						</array>
-						<key>IsDisclosed</key>
-						<false/>
 						<key>MacroActionType</key>
 						<string>Switch</string>
 						<key>Source</key>
@@ -375,9 +373,11 @@ h1 {
 &lt;/head&gt;
 &lt;body style="background: #d4cbff" data-kmwindow="0,SCREEN(Main,MidY),110,45"&gt;
 
+
 	&lt;div onclick="javascript:window.close()"&gt;
 		&lt;h1 id="clock" style="text-align: center; vertical-align: middle;"&gt;Time&lt;/h1&gt;
 	&lt;/div&gt;
+
 
 &lt;script&gt;
 
@@ -422,13 +422,160 @@ function SetClock() {
 				<key>CreationDate</key>
 				<real>633536103.59127605</real>
 				<key>ModificationDate</key>
-				<real>633650055.25470495</real>
+				<real>633763672.48757505</real>
 				<key>Name</key>
 				<string>Countdown Timer for Alfred</string>
 				<key>Triggers</key>
 				<array/>
 				<key>UID</key>
 				<string>6E7E91A6-0691-4550-8753-289D29CA4FF6</string>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>zz_Macro by Name</string>
+		<key>ToggleMacroUID</key>
+		<string>141A2916-0100-4044-999F-A0E3F74515EC</string>
+		<key>UID</key>
+		<string>C8FEE07B-CA56-49B1-90C5-0761A8AD11DD</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>CreationDate</key>
+		<real>614987827.79282498</real>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>ActionColor</key>
+						<string>Purple</string>
+						<key>MacroActionType</key>
+						<string>Comment</string>
+						<key>StyledText</key>
+						<data>
+						cnRmZAAAAAADAAAAAgAAAAcAAABU
+						WFQucnRmAQAAAC5GAwAAKwAAAAEA
+						AAA+AwAAe1xydGYxXGFuc2lcYW5z
+						aWNwZzEyNTJcY29jb2FydGYyNTc3
+						Clxjb2NvYXRleHRzY2FsaW5nMFxj
+						b2NvYXBsYXRmb3JtMHtcZm9udHRi
+						bFxmMFxmc3dpc3NcZmNoYXJzZXQw
+						IEhlbHZldGljYTt9CntcY29sb3J0
+						Ymw7XHJlZDI1NVxncmVlbjI1NVxi
+						bHVlMjU1O1xyZWQwXGdyZWVuMFxi
+						bHVlMDtccmVkMjZcZ3JlZW4yNlxi
+						bHVlMjY7XHJlZDI1NVxncmVlbjI1
+						NVxibHVlMjU1Owp9CntcKlxleHBh
+						bmRlZGNvbG9ydGJsOztcY3Nzcmdi
+						XGMwXGMwXGMwXGM4NDcwNlxjbmFt
+						ZSBjb250cm9sVGV4dENvbG9yO1xj
+						c3NyZ2JcYzEzMzMzXGMxMzMzM1xj
+						MTMzMzM7XGNzc3JnYlxjMTAwMDAw
+						XGMxMDAwMDBcYzEwMDAwMDsKfQpc
+						cGFyZFx0eDU2MFx0eDExMjBcdHgx
+						NjgwXHR4MjI0MFx0eDI4MDBcdHgz
+						MzYwXHR4MzkyMFx0eDQ0ODBcdHg1
+						MDQwXHR4NTYwMFx0eDYxNjBcdHg2
+						NzIwXHBhcmRpcm5hdHVyYWxccGFy
+						dGlnaHRlbmZhY3RvcjAKClxmMFxm
+						czI2IFxjZjIgVGhpcyBtYWNybyBp
+						cyBhZHB0ZWQgZnJvbSB0cm95J3Mg
+						e1xmaWVsZHtcKlxmbGRpbnN0e0hZ
+						UEVSTElOSyAiaHR0cHM6Ly9mb3J1
+						bS5rZXlib2FyZG1hZXN0cm8uY29t
+						L3Qvc2ltcGxpc3RpYy1jb3VudGRv
+						d24tdGltZXIvOTQzMCJ9fXtcZmxk
+						cnNsdCBcY2YzIFxjYjQgXGV4cG5k
+						MFxleHBuZHR3MFxrZXJuaW5nMApT
+						aW1wbGlzdGljIENvdW50ZG93biBU
+						aW1lcn19XGNmMyBcY2I0IFxleHBu
+						ZDBcZXhwbmR0dzBca2VybmluZzAK
+						LlwKSXQgaXMgdG8gYmUgY2FsbGVk
+						IGJ5IGFub3RoZXIgS00gbWFjcm8g
+						bmFtZWQgIkNvdW50ZG93biBUaW1l
+						ciBmb3IgQWxmcmVkIiB3aGVuIHRo
+						ZSB0aW1lciBpcyBkb25lLn0BAAAA
+						IwAAAAEAAAAHAAAAVFhULnJ0ZhAA
+						AABf7xJgtgEAAAAAAAAAAAAA
+						</data>
+						<key>Title</key>
+						<string>Notes</string>
+					</dict>
+					<dict>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>SetVariableToText</string>
+						<key>Text</key>
+						<string>%SystemVolume%</string>
+						<key>Variable</key>
+						<string>Volume</string>
+					</dict>
+					<dict>
+						<key>Action</key>
+						<string>DisplayLarge</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>Text</key>
+						<string>The timer is done!</string>
+					</dict>
+					<dict>
+						<key>MacroActionType</key>
+						<string>SystemVolume</string>
+						<key>Volume</key>
+						<integer>65</integer>
+					</dict>
+					<dict>
+						<key>DeviceID</key>
+						<string>SOUNDEFFECTS</string>
+						<key>MacroActionType</key>
+						<string>PlaySound</string>
+						<key>Path</key>
+						<string>/System/Library/Sounds/Hero.aiff</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>DeviceID</key>
+						<string>SOUNDEFFECTS</string>
+						<key>MacroActionType</key>
+						<string>PlaySound</string>
+						<key>Path</key>
+						<string>/System/Library/Sounds/Funk.aiff</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>DeviceID</key>
+						<string>SOUNDEFFECTS</string>
+						<key>MacroActionType</key>
+						<string>PlaySound</string>
+						<key>Path</key>
+						<string>/System/Library/Sounds/Submarine.aiff</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>Action</key>
+						<string>SetSystemVolume</string>
+						<key>MacroActionType</key>
+						<string>UseVariable</string>
+						<key>Variable</key>
+						<string>Volume</string>
+					</dict>
+				</array>
+				<key>CreationDate</key>
+				<real>540136850.92940402</real>
+				<key>ModificationDate</key>
+				<real>633546562.467062</real>
+				<key>Name</key>
+				<string>Countdown Timer Display</string>
+				<key>Triggers</key>
+				<array/>
+				<key>UID</key>
+				<string>EEE35EA2-E94D-4FE5-948D-1FF6F95FAE5E</string>
 			</dict>
 		</array>
 		<key>Name</key>
