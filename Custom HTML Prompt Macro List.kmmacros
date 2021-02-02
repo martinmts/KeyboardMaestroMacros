@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>CreationDate</key>
+		<real>532660533.36080903</real>
+		<key>CustomIconData</key>
+		<string>KMEP-ToolbarCustomize</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>ActionColor</key>
+						<string>Purple</string>
+						<key>MacroActionType</key>
+						<string>Comment</string>
+						<key>StyledText</key>
+						<data>
+						cnRmZAAAAAADAAAAAgAAAAcAAABU
+						WFQucnRmAQAAAC7wCQAAKwAAAAEA
+						AADoCQAAe1xydGYxXGFuc2lcYW5z
+						aWNwZzEyNTJcY29jb2FydGYyNTc3
+						Clxjb2NvYXRleHRzY2FsaW5nMFxj
+						b2NvYXBsYXRmb3JtMHtcZm9udHRi
+						bFxmMFxmc3dpc3NcZmNoYXJzZXQw
+						IEhlbHZldGljYS1Cb2xkO1xmMVxm
+						c3dpc3NcZmNoYXJzZXQwIEhlbHZl
+						dGljYTtcZjJcZm5pbFxmY2hhcnNl
+						dDAgTHVjaWRhR3JhbmRlOwpcZjNc
+						Zm5pbFxmY2hhcnNldDAgQXBwbGVD
+						b2xvckVtb2ppO30Ke1xjb2xvcnRi
+						bDtccmVkMjU1XGdyZWVuMjU1XGJs
+						dWUyNTU7XHJlZDBcZ3JlZW4wXGJs
+						dWUwO1xyZWQyNTFcZ3JlZW4yXGJs
+						dWU3O1xyZWQwXGdyZWVuMFxibHVl
+						MjU1OwpccmVkMFxncmVlbjBcYmx1
+						ZTA7XHJlZDBcZ3JlZW4wXGJsdWUy
+						NTU7XHJlZDI1MVxncmVlbjJcYmx1
+						ZTc7fQp7XCpcZXhwYW5kZWRjb2xv
+						cnRibDs7XGNzc3JnYlxjMFxjMFxj
+						MFxjODQ3MDZcY25hbWUgY29udHJv
+						bFRleHRDb2xvcjtcY3NzcmdiXGMx
+						MDAwMDBcYzE0OTEzXGMwO1xjc3Ny
+						Z2JcYzE2ODBcYzE5ODM1XGMxMDAw
+						MDA7Clxjc3NyZ2JcYzBcYzBcYzA7
+						XGNzc3JnYlxjMTY4MFxjMTk4MzVc
+						YzEwMDAwMDtcY3NzcmdiXGMxMDAw
+						MDBcYzE0OTEzXGMwO30KXHBhcmRc
+						dHg1NjBcdHgxMTIwXHR4MTY4MFx0
+						eDIyNDBcdHgyODAwXHR4MzM2MFx0
+						eDM5MjBcdHg0NDgwXHR4NTA0MFx0
+						eDU2MDBcdHg2MTYwXHR4NjcyMFxw
+						YXJkaXJuYXR1cmFsXHBhcnRpZ2h0
+						ZW5mYWN0b3IwCgpcZjBcYlxmczI2
+						IFxjZjIgQnkKXGYxXGIwIAkJOiBN
+						YXJ0aW4gWmhhbmdcCgpcZjBcYiBD
+						cmVhdGVkClxmMVxiMCAgCTogMDIv
+						MDEvMjAyMSwgNjo0NiBQTSBFVFwK
+						ClxmMFxiIE1vZGlmaWVkClxmMVxi
+						MCAJOiAgXAoKXGYwXGIgVmVyc2lv
+						bgpcZjFcYjAgCTogMS4wXApcCgpc
+						ZjBcYiBQdXJwb3NlClxmMVxiMCA6
+						XApNYWtlIGEgQ3VzdG9tIEhUTUwg
+						UHJvbXB0IG1hY3JvIGxpc3QuIENs
+						aWNrIGFuIGl0ZW0gd2lsbCB0cmln
+						Z2VyIHRoZSBkZXNpZ25hdGVkIG1h
+						Y3JvLlwKXAoKXGYwXGIgQ29tbWVu
+						dApcZjFcYjAgOlwKVGhpcyBpcyBq
+						dXN0IGFuIGV4YW1wbGUgb2YgYSBD
+						dXN0b20gSFRNTCBQcm9tcHQgd2l0
+						aCBhIHRhYmxlIGNvZGUuIFlvdSB3
+						aWxsIG5lZWQgdG8gZWRpdCBpdCB0
+						byBzdWl0IHlvdXIgbmVlZHMuXApZ
+						b3UgbmVlZCB0byBlZGl0IHRoZSBh
+						cmVhcyBpbiBcY2YzIHJlZFxjZjIg
+						OlwKXGNmNCAgICAgICA8dGQgY2xh
+						c3M9InRyaWdnZXIiPlxjZjMgU2hv
+						cnRjdXRzXGNmNCA8L3RkPlwKICAg
+						ICAgPHRkIGNsYXNzPSJrbW1uYW1l
+						IiBvbmNsaWNrPSJrbW1hY3JvKCdc
+						Y2YzIG1hY3JvTmFtZVxjZjQgJyki
+						PlxjZjMgU2hvcnRjdXQgRGVzY3Jp
+						cHRpb25cY2Y0IDwvdGQ+XApcY2Y1
+						IFwKRm9yIGluc3RhbmNlLFwKXHBh
+						cmRcdHg1NjBcdHgxMTIwXHR4MTY4
+						MFx0eDIyNDBcdHgyODAwXHR4MzM2
+						MFx0eDM5MjBcdHg0NDgwXHR4NTA0
+						MFx0eDU2MDBcdHg2MTYwXHR4Njcy
+						MFxwYXJkaXJuYXR1cmFsXHBhcnRp
+						Z2h0ZW5mYWN0b3IwClxjZjYgICAg
+						ICAgPHRkIGNsYXNzPSJ0cmlnZ2Vy
+						Ij4KXGYyIFxjZjAgXGV4cG5kMFxl
+						eHBuZHR3MFxrZXJuaW5nMApcdWMw
+						XHU4OTg0ICBGMQpcZjEgXGNmNiBc
+						a2VybmluZzFcZXhwbmQwXGV4cG5k
+						dHcwIDwvdGQ+XAogICAgICA8dGQg
+						Y2xhc3M9ImttbW5hbWUiIG9uY2xp
+						Y2s9ImttbWFjcm8oJ1xjZjcgU3Rh
+						cnQgVGltZXJcY2Y2ICcpIj4KXGYz
+						IFx1YzBcdTkyMDAgXHU2NTAzOSAK
+						XGYxICBcY2Y3IFN0YXJ0IGEgVGlt
+						ZXJcY2Y2IDwvdGQ+XApcY2Y1IFwK
+						VGhpcyBtZWFucywgeW91IGhhdmUg
+						YSBtYWNybyBpbiBLTSBuYW1lZCAi
+						XGNmMyBTdGFydCBUaW1lclxjZjUg
+						IiwgYW5kIHlvdSBoYXZlIHNldCAi
+						ClxmMiBcY2YzIFxleHBuZDBcZXhw
+						bmR0dzBca2VybmluZzAKXHVjMFx1
+						ODk4NCAgRjFcY2YwICIgYXMgYSB0
+						cmlnZ2VyIHRvIHRoZSBtYWNyby5c
+						CldoZW4geW91IGJyaW5nIHRoaXMg
+						Q3VzdG9tIEhUTUwgUHJvbXB0IG1h
+						Y3JvIGxpc3QgdXAsIGNsaWNrIApc
+						ZjEgXGNmNSBca2VybmluZzFcZXhw
+						bmQwXGV4cG5kdHcwICIKXGYzIFxj
+						ZjYgXHVjMFx1OTIwMCBcdTY1MDM5
+						IApcZjEgIFxjZjcgU3RhcnQgYSBU
+						aW1lclxjZjUgIiB3aWxsIHRyaWdn
+						ZXIgdGhlICJcY2Y3IFN0YXJ0IFRp
+						bWVyXGNmNSAiIG1hY3JvIGluIEtN
+						IGFuZCB0aGVuIGNsb3NlIHRoaXMg
+						Q3VzdG9tIEhUTUwgUHJvbXB0IHdp
+						bmRvdy5cClwKWW91IG1heSBhbHNv
+						IGVkaXQ6XApcY2Y0IAk8dGQgY2xh
+						c3M9ImttbW5hbWUiIG9uY2xpY2s9
+						ImxvY2F0aW9uLmhyZWY9J1xjZjMg
+						aHR0cHM6Ly9nb29nbGUuY29tXGNm
+						NCAnIj5cY2YzIEdvb2dsZSBTZWFy
+						Y2hcY2Y0IDwvdGQ+XApcY2Y1IFwK
+						U2V0IGluIHRoaXMgd2F5LCBjbGlj
+						ayAiXGNmNyBHb29nbGUgU2VhcmNo
+						XGNmNSAiIHdpbGwgb3BlbiAiXGNm
+						NyBodHRwczovL2dvb2dsZS5jb21c
+						Y2Y1ICIgaW4geW91ciBkZWZhdWx0
+						IGJyb3dzZXIgKHlvdSBtYXkgdGVz
+						dCBpdCBub3chKS4gSSBjYW4ndCBn
+						ZXQgdGhlIEN1c3RvbSBIVE1MIFBy
+						b21wdCB3aW5kb3cgdG8gY2xvc2Ug
+						d2l0aCB0aGlzIG9wZW4gVVJMIGFj
+						dGlvbi4gSWYgYW55b25lIGtub3dz
+						LCBwbGVhc2UgbGV0IG1lIGtub3cu
+						fQEAAAAjAAAAAQAAAAcAAABUWFQu
+						cnRmEAAAAC2WGGC2AQAAAAAAAAAA
+						AAA=
+						</data>
+						<key>Title</key>
+						<string>Release Note</string>
+					</dict>
+					<dict>
+						<key>Floating</key>
+						<true/>
+						<key>MacroActionType</key>
+						<string>CustomPrompt</string>
+						<key>Text</key>
+						<string>&lt;!DOCTYPE HTML&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;!--  metadata goes here   --&gt;
+&lt;meta charset="utf-8" /&gt;
+&lt;title&gt;KM Macros List&lt;/title&gt;
+
+&lt;style type="text/css"&gt;
+body{background-color:black;}
+.tg  {color:white;border-collapse:collapse;border-spacing:0;border-left: 1px solid grey;}
+.tg th{color:silver}
+.tg td{padding:10px 5px;}
+.tg .tbth{font-family:Helvetica;font-weight:bold;font-size:14px;text-align:left}
+.tg .kmmname{color:white;font-family:Helvetica;font-size:12px;border-right: 1px solid grey;
+        white-space:nowrap;
+        overflow:hidden;
+        text-overflow:ellipsis;
+      }
+.tg .trigger {color:darkorange;font-family:Helvetica;font-size:12px;font-weight:bold;text-align:right;white-space:nowrap;}
+&lt;/style&gt;
+
+&lt;script&gt;
+function kmmacro(macroName){
+  window.KeyboardMaestro.Trigger(macroName);
+  window.KeyboardMaestro.Cancel(); //this function will closes the Custom HTML Prompt window. If you don't want it to be closed, just delete or comment it out.
+}
+
+&lt;/script&gt;
+
+&lt;/head&gt;
+
+&lt;body data-kmwindow="SCREEN(Main,MidX)/3,SCREEN(Main,MidY)/2,1300,420"&gt;
+
+  &lt;table class="tg" style="table-layout:fixed;width:100%;"&gt;
+  &lt;colgroup&gt;
+  &lt;col style="width: 6px"&gt;
+  &lt;col style="width: 80px"&gt;  &lt;col style="width: 220px"&gt;
+  &lt;col style="width: 80px"&gt;  &lt;col style="width: 220px"&gt;
+  &lt;col style="width: 80px"&gt;  &lt;col style="width: 220px"&gt;
+  &lt;col style="width: 80px"&gt;  &lt;col style="width: 220px"&gt;
+  &lt;/colgroup&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;                                &lt;!--- row 0. This is the header row---&gt;
+      &lt;th class="tbth"&gt;0&lt;/th&gt;           &lt;!--- col 1. This marks the row no. ---&gt;
+      &lt;th class="tbth"&gt;&lt;/th&gt;
+      &lt;th class="tbth"&gt;Tools&lt;/th&gt;   &lt;!--- Name any title ---&gt;
+      &lt;th class="tbth"&gt;&lt;/th&gt;
+      &lt;th class="tbth"&gt;Apps&lt;/th&gt;
+      &lt;th class="tbth"&gt;&lt;/th&gt;
+      &lt;th class="tbth"&gt;Writing&lt;/th&gt;
+      &lt;th class="tbth"&gt;&lt;/th&gt;
+      &lt;th class="tbth"&gt;Others&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;                                &lt;!--- row 1 ---&gt;
+      &lt;th class="tbth"&gt;1&lt;/th&gt;
+      &lt;td class="trigger"&gt;Shortcuts&lt;/td&gt;   &lt;!--- col 2. Put the shortcut here, e.g., ⌘ F2 ---&gt;
+      &lt;td class="kmmname" onclick="kmmacro('macroName')"&gt;Shortcut Description&lt;/td&gt;  &lt;!--- col 3. replace "macroName" with the name of the Macro in KM. Edit "Shortcut Description" as you wish.---&gt;
+      &lt;td class="trigger"&gt;&lt;/td&gt;  &lt;!--- If no shortcut, just leave it blank. ---&gt;
+      &lt;td class="kmmname" onclick="location.href='https://google.com'"&gt;Google Search&lt;/td&gt; &lt;!--- This is used to open a website. I don't know how to close the Macro List window here. ---&gt;
+      &lt;td class="trigger"&gt;Shortcuts&lt;/td&gt;
+      &lt;td class="kmmname" onclick="kmmacro('macroName')"&gt;😁️😁️ Shortcut Description 😁️😁️&lt;/td&gt; &lt;!--- You can use emoji here ---&gt;
+      &lt;td class="trigger"&gt;Shortcuts&lt;/td&gt;
+      &lt;td class="kmmname" onclick="kmmacro('macroName')"&gt;Shortcut Description&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;                                &lt;!--- row 2 ---&gt;
+      &lt;th class="tbth"&gt;2&lt;/th&gt;
+      &lt;td class="trigger"&gt;Shortcuts&lt;/td&gt;
+      &lt;td class="kmmname" onclick="kmmacro('macroName')"&gt;Shortcut Description&lt;/td&gt;
+      &lt;td class="trigger"&gt;Shortcuts&lt;/td&gt;
+      &lt;td class="kmmname" onclick="kmmacro('macroName')"&gt;Shortcut Description&lt;/td&gt;
+      &lt;td class="trigger"&gt;Shortcuts&lt;/td&gt;
+      &lt;td class="kmmname" onclick="kmmacro('macroName')"&gt;Shortcut Description&lt;/td&gt;
+      &lt;td class="trigger"&gt;Shortcuts&lt;/td&gt;
+      &lt;td class="kmmname" onclick="kmmacro('macroName')"&gt;Shortcut Description&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;                                &lt;!--- row 3 ---&gt;
+      &lt;th class="tbth"&gt;3&lt;/th&gt;
+      &lt;td class="trigger"&gt;Shortcuts&lt;/td&gt;
+      &lt;td class="kmmname" onclick="kmmacro('macroName')"&gt;Shortcut Description&lt;/td&gt;
+      &lt;td class="trigger"&gt;Shortcuts&lt;/td&gt;
+      &lt;td class="kmmname" onclick="kmmacro('macroName')"&gt;Shortcut Description&lt;/td&gt;
+      &lt;td class="trigger"&gt;Shortcuts&lt;/td&gt;
+      &lt;td class="kmmname" onclick="kmmacro('macroName')"&gt;Shortcut Description&lt;/td&gt;
+      &lt;td class="trigger"&gt;Shortcuts&lt;/td&gt;
+      &lt;td class="kmmname" onclick="kmmacro('macroName')"&gt;Shortcut Description&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;                                &lt;!--- row 4 ---&gt;
+      &lt;th class="tbth"&gt;4&lt;/th&gt;
+      &lt;td class="trigger"&gt;Shortcuts&lt;/td&gt;
+      &lt;td class="kmmname" onclick="kmmacro('macroName')"&gt;Shortcut Description&lt;/td&gt;
+      &lt;td class="trigger"&gt;Shortcuts&lt;/td&gt;
+      &lt;td class="kmmname" onclick="kmmacro('macroName')"&gt;Shortcut Description&lt;/td&gt;
+      &lt;td class="trigger"&gt;Shortcuts&lt;/td&gt;
+      &lt;td class="kmmname" onclick="kmmacro('macroName')"&gt;Shortcut Description&lt;/td&gt;
+      &lt;td class="trigger"&gt;Shortcuts&lt;/td&gt;
+      &lt;td class="kmmname" onclick="kmmacro('macroName')"&gt;Shortcut Description&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;                                &lt;!--- row 5 ---&gt;
+      &lt;th class="tbth"&gt;5&lt;/th&gt;
+      &lt;td class="trigger"&gt;Shortcuts&lt;/td&gt;
+      &lt;td class="kmmname" onclick="kmmacro('macroName')"&gt;Shortcut Description&lt;/td&gt;
+      &lt;td class="trigger"&gt;Shortcuts&lt;/td&gt;
+      &lt;td class="kmmname" onclick="kmmacro('macroName')"&gt;Shortcut Description&lt;/td&gt;
+      &lt;td class="trigger"&gt;Shortcuts&lt;/td&gt;
+      &lt;td class="kmmname" onclick="kmmacro('macroName')"&gt;Shortcut Description&lt;/td&gt;
+      &lt;td class="trigger"&gt;Shortcuts&lt;/td&gt;
+      &lt;td class="kmmname" onclick="kmmacro('macroName')"&gt;Shortcut Description&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;                                &lt;!--- row 6 ---&gt;
+      &lt;th class="tbth"&gt;6&lt;/th&gt;
+      &lt;td class="trigger"&gt;Shortcuts&lt;/td&gt;
+      &lt;td class="kmmname" onclick="kmmacro('macroName')"&gt;Shortcut Description&lt;/td&gt;
+      &lt;td class="trigger"&gt;Shortcuts&lt;/td&gt;
+      &lt;td class="kmmname" onclick="kmmacro('macroName')"&gt;Shortcut Description&lt;/td&gt;
+      &lt;td class="trigger"&gt;Shortcuts&lt;/td&gt;
+      &lt;td class="kmmname" onclick="kmmacro('macroName')"&gt;Shortcut Description&lt;/td&gt;
+      &lt;td class="trigger"&gt;Shortcuts&lt;/td&gt;
+      &lt;td class="kmmname" onclick="kmmacro('macroName')"&gt;Shortcut Description&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;                                &lt;!--- row 7 ---&gt;
+      &lt;th class="tbth"&gt;7&lt;/th&gt;
+      &lt;td class="trigger"&gt;Shortcuts&lt;/td&gt;
+      &lt;td class="kmmname" onclick="kmmacro('macroName')"&gt;Shortcut Description&lt;/td&gt;
+      &lt;td class="trigger"&gt;Shortcuts&lt;/td&gt;
+      &lt;td class="kmmname" onclick="kmmacro('macroName')"&gt;Shortcut Description&lt;/td&gt;
+      &lt;td class="trigger"&gt;Shortcuts&lt;/td&gt;
+      &lt;td class="kmmname" onclick="kmmacro('macroName')"&gt;Shortcut Description&lt;/td&gt;
+      &lt;td class="trigger"&gt;Shortcuts&lt;/td&gt;
+      &lt;td class="kmmname" onclick="kmmacro('macroName')"&gt;Shortcut Description&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;                                &lt;!--- row 8 ---&gt;
+      &lt;th class="tbth"&gt;8&lt;/th&gt;
+      &lt;td class="trigger"&gt;Shortcuts&lt;/td&gt;
+      &lt;td class="kmmname" onclick="kmmacro('macroName')"&gt;Shortcut Description&lt;/td&gt;
+      &lt;td class="trigger"&gt;Shortcuts&lt;/td&gt;
+      &lt;td class="kmmname" onclick="kmmacro('macroName')"&gt;Shortcut Description&lt;/td&gt;
+      &lt;td class="trigger"&gt;Shortcuts&lt;/td&gt;
+      &lt;td class="kmmname" onclick="kmmacro('macroName')"&gt;Shortcut Description&lt;/td&gt;
+      &lt;td class="trigger"&gt;Shortcuts&lt;/td&gt;
+      &lt;td class="kmmname" onclick="kmmacro('macroName')"&gt;Shortcut Description&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;                                &lt;!--- row 9 ---&gt;
+      &lt;th class="tbth"&gt;9&lt;/th&gt;
+      &lt;td class="trigger"&gt;Shortcuts&lt;/td&gt;
+      &lt;td class="kmmname" onclick="kmmacro('macroName')"&gt;Shortcut Description&lt;/td&gt;
+      &lt;td class="trigger"&gt;Shortcuts&lt;/td&gt;
+      &lt;td class="kmmname" onclick="kmmacro('macroName')"&gt;Shortcut Description&lt;/td&gt;
+      &lt;td class="trigger"&gt;Shortcuts&lt;/td&gt;
+      &lt;td class="kmmname" onclick="kmmacro('macroName')"&gt;Shortcut Description&lt;/td&gt;
+      &lt;td class="trigger"&gt;Shortcuts&lt;/td&gt;
+      &lt;td class="kmmname" onclick="kmmacro('macroName')"&gt;Shortcut Description&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;                                &lt;!--- row 10 ---&gt;
+      &lt;th class="tbth"&gt;10&lt;/th&gt;
+      &lt;td class="trigger"&gt;Shortcuts&lt;/td&gt;
+      &lt;td class="kmmname" onclick="kmmacro('macroName')"&gt;Shortcut Description&lt;/td&gt;
+      &lt;td class="trigger"&gt;Shortcuts&lt;/td&gt;
+      &lt;td class="kmmname" onclick="kmmacro('macroName')"&gt;Shortcut Description&lt;/td&gt;
+      &lt;td class="trigger"&gt;Shortcuts&lt;/td&gt;
+      &lt;td class="kmmname" onclick="kmmacro('macroName')"&gt;Shortcut Description&lt;/td&gt;
+      &lt;td class="trigger"&gt;Shortcuts&lt;/td&gt;
+      &lt;td class="kmmname" onclick="kmmacro('macroName')"&gt;Shortcut Description&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;                                &lt;!--- row 11 ---&gt;
+      &lt;th class="tbth"&gt;11&lt;/th&gt;
+      &lt;td class="trigger"&gt;Shortcuts&lt;/td&gt;
+      &lt;td class="kmmname" onclick="kmmacro('macroName')"&gt;Shortcut Description&lt;/td&gt;
+      &lt;td class="trigger"&gt;Shortcuts&lt;/td&gt;
+      &lt;td class="kmmname" onclick="kmmacro('macroName')"&gt;Shortcut Description&lt;/td&gt;
+      &lt;td class="trigger"&gt;Shortcuts&lt;/td&gt;
+      &lt;td class="kmmname" onclick="kmmacro('macroName')"&gt;Shortcut Description&lt;/td&gt;
+      &lt;td class="trigger"&gt;Shortcuts&lt;/td&gt;
+      &lt;td class="kmmname" onclick="kmmacro('macroName')"&gt;Shortcut Description&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+  &lt;/table&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>UseText</key>
+						<true/>
+					</dict>
+				</array>
+				<key>CreationDate</key>
+				<real>633915232.87052906</real>
+				<key>IsActive</key>
+				<false/>
+				<key>ModificationDate</key>
+				<real>633916843.978791</real>
+				<key>Name</key>
+				<string>Custom HTML Prompt Macro List</string>
+				<key>Triggers</key>
+				<array/>
+				<key>UID</key>
+				<string>34D9FE0A-641F-4598-9C35-8276A8F4CDB6</string>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>_Test Group</string>
+		<key>ToggleMacroUID</key>
+		<string>5C0BFA63-66B6-40E9-B4B1-CEAB325D0C73</string>
+		<key>UID</key>
+		<string>3EFDF5A4-7330-43B2-AE68-879A8DEFCCA3</string>
+	</dict>
+</array>
+</plist>
