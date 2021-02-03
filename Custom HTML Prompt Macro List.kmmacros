@@ -58,10 +58,14 @@
 						<string>Asynchronously</string>
 						<key>MacroActionType</key>
 						<string>ExecuteJavaScriptForCustomPrompt</string>
+						<key>NotifyOnFailure</key>
+						<false/>
 						<key>Path</key>
 						<string></string>
+						<key>StopOnFailure</key>
+						<false/>
 						<key>Text</key>
-						<string>window.KeyboardMaestro.Cancel();</string>
+						<string>window.close();</string>
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>UseText</key>
@@ -73,7 +77,7 @@
 				<key>CreationDate</key>
 				<real>633957330.41895604</real>
 				<key>ModificationDate</key>
-				<real>633959444.160743</real>
+				<real>633973458.55170798</real>
 				<key>Name</key>
 				<string>Custom KM Macro List - Close Window</string>
 				<key>Triggers</key>
@@ -109,9 +113,9 @@
 						<key>StyledText</key>
 						<data>
 						cnRmZAAAAAADAAAAAgAAAAcAAABU
-						WFQucnRmAQAAAC51CgAAKwAAAAEA
-						AABtCgAAe1xydGYxXGFuc2lcYW5z
-						aWNwZzEyNTJcY29jb2FydGYyNTc3
+						WFQucnRmAQAAAC5ODQAAKwAAAAEA
+						AABGDQAAe1xydGYxXGFuc2lcYW5z
+						aWNwZzEyNTJcY29jb2FydGYyNTc4
 						Clxjb2NvYXRleHRzY2FsaW5nMFxj
 						b2NvYXBsYXRmb3JtMHtcZm9udHRi
 						bFxmMFxmc3dpc3NcZmNoYXJzZXQw
@@ -125,121 +129,156 @@
 						dWUyNTU7XHJlZDBcZ3JlZW4wXGJs
 						dWUwO1xyZWQyNTFcZ3JlZW4yXGJs
 						dWU3O1xyZWQwXGdyZWVuMFxibHVl
-						MjU1OwpccmVkMFxncmVlbjBcYmx1
+						MjU1OwpccmVkMjUxXGdyZWVuMlxi
+						bHVlNztccmVkMFxncmVlbjBcYmx1
+						ZTI1NTtccmVkMFxncmVlbjBcYmx1
 						ZTA7fQp7XCpcZXhwYW5kZWRjb2xv
 						cnRibDs7XGNzc3JnYlxjMFxjMFxj
 						MFxjODQ3MDZcY25hbWUgY29udHJv
 						bFRleHRDb2xvcjtcY3NzcmdiXGMx
 						MDAwMDBcYzE0OTEzXGMwO1xjc3Ny
 						Z2JcYzE2ODBcYzE5ODM1XGMxMDAw
-						MDA7Clxjc3NyZ2JcYzBcYzBcYzA7
-						fQpccGFyZFx0eDU2MFx0eDExMjBc
-						dHgxNjgwXHR4MjI0MFx0eDI4MDBc
-						dHgzMzYwXHR4MzkyMFx0eDQ0ODBc
-						dHg1MDQwXHR4NTYwMFx0eDYxNjBc
-						dHg2NzIwXHBhcmRpcm5hdHVyYWxc
-						cGFydGlnaHRlbmZhY3RvcjAKClxm
-						MFxiXGZzMjYgXGNmMiBCeQpcZjFc
-						YjAgCQk6IE1hcnRpbiBaaGFuZ1wK
-						ClxmMFxiIENyZWF0ZWQKXGYxXGIw
-						ICAJOiAwMi8wMS8yMDIxLCA2OjQ2
-						IFBNIEVUXAoKXGYwXGIgTW9kaWZp
-						ZWQKXGYxXGIwIAk6IDAyLzAyLzIw
-						MjEsIDY6NTMgQU0gRVRcCgpcZjBc
-						YiBWZXJzaW9uClxmMVxiMCAJOiAx
-						LjFcClwKVmVyc2lvbiAxLjEgcmVs
-						ZWFzZSBub3RlOiBXaXRoIFZlcnNp
-						b24gMS4wLCBJIHdhcyBub3QgYWJs
-						ZSB0byBjbG9zZSB0aGlzICJDdXN0
-						b20gSFRNTCBQcm9tcHQgTWFjcm8g
-						TGlzdCIgd2luZG93IGFmdGVyIHRo
-						ZSBvbmNsaWNrPSJsb2NhdGlvbi5o
-						cmVmPVVSTDsiIGZ1bmN0aW9uLiBW
-						ZXJzaW9uIDEuMSBhZGRzIGFub3Ro
-						ZXIgbWFjcm8gY2FsbGVkICJDdXN0
-						b20gS00gTWFjcm8gTGlzdCAtIENs
-						b3NlIFdpbmRvdyIsIHdoaWNoIGlz
-						IHVzZWQgdG8gY2xvc2UgdGhpcyAi
-						Q3VzdG9tIEhUTUwgUHJvbXB0IE1h
-						Y3JvIExpc3QiIHdpbmRvdy5cClwK
-						ClxmMFxiIFB1cnBvc2UKXGYxXGIw
-						IDpcCk1ha2UgYSBDdXN0b20gSFRN
-						TCBQcm9tcHQgbWFjcm8gbGlzdC4g
-						Q2xpY2sgYW4gaXRlbSB3aWxsIHRy
-						aWdnZXIgdGhlIGRlc2lnbmF0ZWQg
-						bWFjcm8uXApcCgpcZjBcYiBDb21t
-						ZW50ClxmMVxiMCA6XApUaGlzIGlz
-						IGp1c3QgYW4gZXhhbXBsZSBvZiBh
-						IEN1c3RvbSBIVE1MIFByb21wdCB3
-						aXRoIGEgdGFibGUgY29kZS4gWW91
-						IHdpbGwgbmVlZCB0byBlZGl0IGl0
-						IHRvIHN1aXQgeW91ciBuZWVkcy5c
-						CllvdSBuZWVkIHRvIGVkaXQgdGhl
-						IGFyZWFzIGluIFxjZjMgcmVkXGNm
-						MiA6XApccGFyZFx0eDU2MFx0eDEx
-						MjBcdHgxNjgwXHR4MjI0MFx0eDI4
-						MDBcdHgzMzYwXHR4MzkyMFx0eDQ0
-						ODBcdHg1MDQwXHR4NTYwMFx0eDYx
-						NjBcdHg2NzIwXHBhcmRpcm5hdHVy
-						YWxccGFydGlnaHRlbmZhY3RvcjAK
-						XGNmNCAgICAgICA8dGQgY2xhc3M9
-						InRyaWdnZXIiPlxjZjMgU2hvcnRj
-						dXRzXGNmNCA8L3RkPlwKICAgICAg
-						PHRkIGNsYXNzPSJrbW1uYW1lIiBv
-						bmNsaWNrPSJrbW1hY3JvKCdcY2Yz
-						IG1hY3JvTmFtZVxjZjQgJykiPlxj
-						ZjMgU2hvcnRjdXQgRGVzY3JpcHRp
-						b25cY2Y0IDwvdGQ+XApcY2Y1IFwK
-						Rm9yIGluc3RhbmNlLFwKXGNmNCAg
-						ICAgICA8dGQgY2xhc3M9InRyaWdn
-						ZXIiPgpcZjIgXGNmMCBcZXhwbmQw
-						XGV4cG5kdHcwXGtlcm5pbmcwClx1
-						YzBcdTg5ODQgIEYxClxmMSBcY2Y0
-						IFxrZXJuaW5nMVxleHBuZDBcZXhw
-						bmR0dzAgPC90ZD5cCiAgICAgIDx0
-						ZCBjbGFzcz0ia21tbmFtZSIgb25j
-						bGljaz0ia21tYWNybygnXGNmMyBT
-						dGFydCBUaW1lclxjZjQgJykiPgpc
-						ZjMgXGNmNCBcdWMwXHU5MjAwIFx1
-						NjUwMzkgClxmMSBcY2Y0ICBcY2Yz
-						IFN0YXJ0IGEgVGltZXJcY2Y0IDwv
-						dGQ+XApcY2Y1IFwKVGhpcyBtZWFu
-						cywgeW91IGhhdmUgYSBtYWNybyBp
-						biBLTSBuYW1lZCAiXGNmMyBTdGFy
-						dCBUaW1lclxjZjUgIiwgYW5kIHlv
-						dSBoYXZlIHNldCAiClxmMiBcY2Yz
-						IFxleHBuZDBcZXhwbmR0dzBca2Vy
-						bmluZzAKXHVjMFx1ODk4NCAgRjFc
-						Y2YwICIgYXMgYSB0cmlnZ2VyIHRv
-						IHRoZSBtYWNyby5cCldoZW4geW91
-						IGJyaW5nIHRoaXMgQ3VzdG9tIEhU
-						TUwgUHJvbXB0IG1hY3JvIGxpc3Qg
-						dXAsIGNsaWNrIApcZjEgXGNmNSBc
-						a2VybmluZzFcZXhwbmQwXGV4cG5k
-						dHcwICIKXGYzIFxjZjQgXHVjMFx1
-						OTIwMCBcdTY1MDM5IApcZjEgXGNm
-						NCAgXGNmMyBTdGFydCBhIFRpbWVy
-						XGNmNSAiIHdpbGwgdHJpZ2dlciB0
-						aGUgIlxjZjMgU3RhcnQgVGltZXJc
-						Y2Y1ICIgbWFjcm8gaW4gS00gYW5k
-						IHRoZW4gY2xvc2UgdGhpcyBDdXN0
-						b20gSFRNTCBQcm9tcHQgd2luZG93
-						LlwKXApZb3UgbWF5IGFsc28gZWRp
-						dDpcClxjZjQgCTx0ZCBjbGFzcz0i
-						a21tbmFtZSIgb25jbGljaz0ibG9j
-						YXRpb24uaHJlZj0nXGNmMyBodHRw
-						czovL2dvb2dsZS5jb21cY2Y0ICci
-						PlxjZjMgR29vZ2xlIFNlYXJjaFxj
-						ZjQgPC90ZD5cClxjZjUgXApTZXQg
-						aW4gdGhpcyB3YXksIGNsaWNrICJc
-						Y2YzIEdvb2dsZSBTZWFyY2hcY2Y1
-						ICIgd2lsbCBvcGVuICJcY2YzIGh0
-						dHBzOi8vZ29vZ2xlLmNvbVxjZjUg
-						IiBpbiB5b3VyIGRlZmF1bHQgYnJv
-						d3NlciAoeW91IG1heSB0ZXN0IGl0
-						IG5vdyEpLn0BAAAAIwAAAAEAAAAH
-						AAAAVFhULnJ0ZhAAAAB6PhlgtgEA
-						AAAAAAAAAAAA
+						MDA7Clxjc3NyZ2JcYzEwMDAwMFxj
+						MTQ5MTNcYzA7XGNzc3JnYlxjMTY4
+						MFxjMTk4MzVcYzEwMDAwMDtcY3Nz
+						cmdiXGMwXGMwXGMwO30KXHBhcmRc
+						dHg1NjBcdHgxMTIwXHR4MTY4MFx0
+						eDIyNDBcdHgyODAwXHR4MzM2MFx0
+						eDM5MjBcdHg0NDgwXHR4NTA0MFx0
+						eDU2MDBcdHg2MTYwXHR4NjcyMFxw
+						YXJkaXJuYXR1cmFsXHBhcnRpZ2h0
+						ZW5mYWN0b3IwCgpcZjBcYlxmczI2
+						IFxjZjIgQnkKXGYxXGIwIAkJOiBN
+						YXJ0aW4gWmhhbmdcCgpcZjBcYiBD
+						cmVhdGVkClxmMVxiMCAgCTogMDIv
+						MDEvMjAyMSwgNjo0NiBQTSBFVFwK
+						ClxmMFxiIE1vZGlmaWVkClxmMVxi
+						MCAJOiAwMi8wMy8yMDIxLCAxMDo0
+						NSBBTSBFVFwKClxmMFxiIFZlcnNp
+						b24KXGYxXGIwIAk6IDEuMlwKXApW
+						ZXJzaW9uIDEuMiByZWxlYXNlIG5v
+						dGU6IFRoZSBDdXN0b20gSFRNTCBQ
+						cm9tcHQgbm93IHNob3dzIHVwIGF0
+						IHRoZSBjZW50ZXIgb2YgdGhlIHNj
+						cmVlbi4gV2hlbiB5b3UgYWRqdXN0
+						IHRoZSBzaXplLCBhZGp1c3QgdGhl
+						IHBvc2l0aW9uIGFzIHdlbGwuIEZv
+						ciBpbnN0YW5jZSwgaWYgeW91IGNo
+						YW5nZSB0aGUgSGVpZ2h0IGZyb20g
+						NDIwIHRvIDUwMCwgeW91IG5lZWQg
+						dG8gY2hhbmdlIHRoZSBudW1iZXIg
+						aW4gcG9zaXRpb24gYXMgd2VsbDpc
+						ClxwYXJkXHR4NTYwXHR4MTEyMFx0
+						eDE2ODBcdHgyMjQwXHR4MjgwMFx0
+						eDMzNjBcdHgzOTIwXHR4NDQ4MFx0
+						eDUwNDBcdHg1NjAwXHR4NjE2MFx0
+						eDY3MjBccGFyZGlybmF0dXJhbFxw
+						YXJ0aWdodGVuZmFjdG9yMApcY2Yz
+						ICAgICAgIGRhdGEta213aW5kb3c9
+						IlNDUkVFTihGcm9udCxNaWRYKS0x
+						MzAwLzIsU0NSRUVOKEZyb250LE1p
+						ZFkpLQpcZjBcYiBcY2Y0IDUKXGYx
+						XGIwIFxjZjMgMjAvMiwxMzAwLApc
+						ZjBcYiBcY2Y0IDUKXGYxXGIwIFxj
+						ZjMgMjAiXApcY2YyIFwKVmVyc2lv
+						biAxLjEgcmVsZWFzZSBub3RlOiBX
+						aXRoIFZlcnNpb24gMS4wLCBJIHdh
+						cyBub3QgYWJsZSB0byBjbG9zZSB0
+						aGlzICJDdXN0b20gSFRNTCBQcm9t
+						cHQgTWFjcm8gTGlzdCIgd2luZG93
+						IGFmdGVyIHRoZSBvbmNsaWNrPSJs
+						b2NhdGlvbi5ocmVmPVVSTDsiIGZ1
+						bmN0aW9uLiBWZXJzaW9uIDEuMSBh
+						ZGRzIGFub3RoZXIgbWFjcm8gY2Fs
+						bGVkICJDdXN0b20gS00gTWFjcm8g
+						TGlzdCAtIENsb3NlIFdpbmRvdyIs
+						IHdoaWNoIGlzIHVzZWQgdG8gY2xv
+						c2UgdGhpcyAiQ3VzdG9tIEhUTUwg
+						UHJvbXB0IE1hY3JvIExpc3QiIHdp
+						bmRvdy5cClwKXHBhcmRcdHg1NjBc
+						dHgxMTIwXHR4MTY4MFx0eDIyNDBc
+						dHgyODAwXHR4MzM2MFx0eDM5MjBc
+						dHg0NDgwXHR4NTA0MFx0eDU2MDBc
+						dHg2MTYwXHR4NjcyMFxwYXJkaXJu
+						YXR1cmFsXHBhcnRpZ2h0ZW5mYWN0
+						b3IwCgpcZjBcYiBcY2YyIFB1cnBv
+						c2UKXGYxXGIwIDpcCk1ha2UgYSBD
+						dXN0b20gSFRNTCBQcm9tcHQgbWFj
+						cm8gbGlzdC4gQ2xpY2sgYW4gaXRl
+						bSB3aWxsIHRyaWdnZXIgdGhlIGRl
+						c2lnbmF0ZWQgbWFjcm8uXApcCgpc
+						ZjBcYiBDb21tZW50ClxmMVxiMCA6
+						XApUaGlzIGlzIGp1c3QgYW4gZXhh
+						bXBsZSBvZiBhIEN1c3RvbSBIVE1M
+						IFByb21wdCB3aXRoIGEgdGFibGUg
+						Y29kZS4gWW91IHdpbGwgbmVlZCB0
+						byBlZGl0IGl0IHRvIHN1aXQgeW91
+						ciBuZWVkcy5cCllvdSBuZWVkIHRv
+						IGVkaXQgdGhlIGFyZWFzIGluIFxj
+						ZjUgcmVkXGNmMiA6XApccGFyZFx0
+						eDU2MFx0eDExMjBcdHgxNjgwXHR4
+						MjI0MFx0eDI4MDBcdHgzMzYwXHR4
+						MzkyMFx0eDQ0ODBcdHg1MDQwXHR4
+						NTYwMFx0eDYxNjBcdHg2NzIwXHBh
+						cmRpcm5hdHVyYWxccGFydGlnaHRl
+						bmZhY3RvcjAKXGNmNiAgICAgICA8
+						dGQgY2xhc3M9InRyaWdnZXIiPlxj
+						ZjUgU2hvcnRjdXRzXGNmNiA8L3Rk
+						PlwKICAgICAgPHRkIGNsYXNzPSJr
+						bW1uYW1lIiBvbmNsaWNrPSJrbW1h
+						Y3JvKCdcY2Y1IG1hY3JvTmFtZVxj
+						ZjYgJykiPlxjZjUgU2hvcnRjdXQg
+						RGVzY3JpcHRpb25cY2Y2IDwvdGQ+
+						XApcY2Y3IFwKRm9yIGluc3RhbmNl
+						LFwKXGNmNiAgICAgICA8dGQgY2xh
+						c3M9InRyaWdnZXIiPgpcZjIgXGNm
+						MCBcZXhwbmQwXGV4cG5kdHcwXGtl
+						cm5pbmcwClx1YzBcdTg5ODQgIEYx
+						ClxmMSBcY2Y2IFxrZXJuaW5nMVxl
+						eHBuZDBcZXhwbmR0dzAgPC90ZD5c
+						CiAgICAgIDx0ZCBjbGFzcz0ia21t
+						bmFtZSIgb25jbGljaz0ia21tYWNy
+						bygnXGNmNSBTdGFydCBUaW1lclxj
+						ZjYgJykiPgpcZjMgXHVjMFx1OTIw
+						MCBcdTY1MDM5IApcZjEgIFxjZjUg
+						U3RhcnQgYSBUaW1lclxjZjYgPC90
+						ZD5cClxjZjcgXApUaGlzIG1lYW5z
+						LCB5b3UgaGF2ZSBhIG1hY3JvIGlu
+						IEtNIG5hbWVkICJcY2Y1IFN0YXJ0
+						IFRpbWVyXGNmNyAiLCBhbmQgeW91
+						IGhhdmUgc2V0ICIKXGYyIFxjZjUg
+						XGV4cG5kMFxleHBuZHR3MFxrZXJu
+						aW5nMApcdWMwXHU4OTg0ICBGMVxj
+						ZjAgIiBhcyBhIHRyaWdnZXIgdG8g
+						dGhlIG1hY3JvLlwKV2hlbiB5b3Ug
+						YnJpbmcgdGhpcyBDdXN0b20gSFRN
+						TCBQcm9tcHQgbWFjcm8gbGlzdCB1
+						cCwgY2xpY2sgClxmMSBcY2Y3IFxr
+						ZXJuaW5nMVxleHBuZDBcZXhwbmR0
+						dzAgIgpcZjMgXGNmNiBcdWMwXHU5
+						MjAwIFx1NjUwMzkgClxmMSAgXGNm
+						NSBTdGFydCBhIFRpbWVyXGNmNyAi
+						IHdpbGwgdHJpZ2dlciB0aGUgIlxj
+						ZjUgU3RhcnQgVGltZXJcY2Y3ICIg
+						bWFjcm8gaW4gS00gYW5kIHRoZW4g
+						Y2xvc2UgdGhpcyBDdXN0b20gSFRN
+						TCBQcm9tcHQgd2luZG93LlwKXApZ
+						b3UgbWF5IGFsc28gZWRpdDpcClxj
+						ZjYgCTx0ZCBjbGFzcz0ia21tbmFt
+						ZSIgb25jbGljaz0ibG9jYXRpb24u
+						aHJlZj0nXGNmNSBodHRwczovL2dv
+						b2dsZS5jb21cY2Y2ICciPlxjZjUg
+						R29vZ2xlIFNlYXJjaFxjZjYgPC90
+						ZD5cClxjZjcgXApTZXQgaW4gdGhp
+						cyB3YXksIGNsaWNrICJcY2Y1IEdv
+						b2dsZSBTZWFyY2hcY2Y3ICIgd2ls
+						bCBvcGVuICJcY2Y1IGh0dHBzOi8v
+						Z29vZ2xlLmNvbVxjZjcgIiBpbiB5
+						b3VyIGRlZmF1bHQgYnJvd3NlciAo
+						eW91IG1heSB0ZXN0IGl0IG5vdyEp
+						Ln0BAAAAIwAAAAEAAAAHAAAAVFhU
+						LnJ0ZhAAAADRxRpgtgEAAAAAAAAA
+						AAAA
 						</data>
 						<key>Title</key>
 						<string>Release Note</string>
@@ -285,7 +324,7 @@ function openURL(URL){
 
 &lt;/head&gt;
 
-&lt;body data-kmwindowid="CustomKMMacroList" data-kmwindow="SCREEN(Main,MidX)/3,SCREEN(Main,MidY)/2,1300,420"&gt;
+&lt;body data-kmwindowid="CustomKMMacroList" data-kmwindow="SCREEN(Front,MidX)-1300/2,SCREEN(Front,MidY)-420/2,1300,420"&gt; &lt;!-- this is to make the window at the center. make sure when you ajust the size, adjust the position as well. --&gt;
 
   &lt;table class="tg" style="table-layout:fixed;width:100%;"&gt;
   &lt;colgroup&gt;
@@ -445,7 +484,7 @@ function openURL(URL){
 				<key>CreationDate</key>
 				<real>633915232.87052906</real>
 				<key>ModificationDate</key>
-				<real>633959973.02614105</real>
+				<real>634060112.28349805</real>
 				<key>Name</key>
 				<string>Custom HTML Prompt Macro List</string>
 				<key>Triggers</key>
