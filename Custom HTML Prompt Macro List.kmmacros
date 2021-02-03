@@ -165,7 +165,7 @@
 						IHBvc2l0aW9uIGFzIHdlbGwuIEZv
 						ciBpbnN0YW5jZSwgaWYgeW91IGNo
 						YW5nZSB0aGUgSGVpZ2h0IGZyb20g
-						NDIwIHRvIDUwMCwgeW91IG5lZWQg
+						NDIwIHRvIDUyMCwgeW91IG5lZWQg
 						dG8gY2hhbmdlIHRoZSBudW1iZXIg
 						aW4gcG9zaXRpb24gYXMgd2VsbDpc
 						ClxwYXJkXHR4NTYwXHR4MTEyMFx0
@@ -277,7 +277,7 @@
 						b3VyIGRlZmF1bHQgYnJvd3NlciAo
 						eW91IG1heSB0ZXN0IGl0IG5vdyEp
 						Ln0BAAAAIwAAAAEAAAAHAAAAVFhU
-						LnJ0ZhAAAADRxRpgtgEAAAAAAAAA
+						LnJ0ZhAAAACkxhpgtgEAAAAAAAAA
 						AAAA
 						</data>
 						<key>Title</key>
@@ -484,7 +484,7 @@ function openURL(URL){
 				<key>CreationDate</key>
 				<real>633915232.87052906</real>
 				<key>ModificationDate</key>
-				<real>634060112.28349805</real>
+				<real>634060323.84911704</real>
 				<key>Name</key>
 				<string>Custom HTML Prompt Macro List</string>
 				<key>Triggers</key>
