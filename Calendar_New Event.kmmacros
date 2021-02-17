@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>CreationDate</key>
+		<real>615848583.64158797</real>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>ActionColor</key>
+						<string>Purple</string>
+						<key>MacroActionType</key>
+						<string>Comment</string>
+						<key>StyledText</key>
+						<data>
+						cnRmZAAAAAADAAAAAgAAAAcAAABU
+						WFQucnRmAQAAAC6zBQAAKwAAAAEA
+						AACrBQAAe1xydGYxXGFuc2lcYW5z
+						aWNwZzEyNTJcY29jb2FydGYyNTc4
+						Clxjb2NvYXRleHRzY2FsaW5nMFxj
+						b2NvYXBsYXRmb3JtMHtcZm9udHRi
+						bFxmMFxmc3dpc3NcZmNoYXJzZXQw
+						IEhlbHZldGljYS1Cb2xkO1xmMVxm
+						c3dpc3NcZmNoYXJzZXQwIEhlbHZl
+						dGljYTtcZjJcZm5pbFxmY2hhcnNl
+						dDEzNCBTVFNvbmd0aS1TQy1SZWd1
+						bGFyOwpcZjNcZm5pbFxmY2hhcnNl
+						dDEyOCBIaXJhTWluUHJvTi1XMzt9
+						CntcY29sb3J0Ymw7XHJlZDI1NVxn
+						cmVlbjI1NVxibHVlMjU1O1xyZWQw
+						XGdyZWVuMFxibHVlMDt9CntcKlxl
+						eHBhbmRlZGNvbG9ydGJsOztcY3Nz
+						cmdiXGMwXGMwXGMwXGM4NDcwNlxj
+						bmFtZSBjb250cm9sVGV4dENvbG9y
+						O30KXHBhcmRcdHg1NjBcdHgxMTIw
+						XHR4MTY4MFx0eDIyNDBcdHgyODAw
+						XHR4MzM2MFx0eDM5MjBcdHg0NDgw
+						XHR4NTA0MFx0eDU2MDBcdHg2MTYw
+						XHR4NjcyMFxwYXJkaXJuYXR1cmFs
+						XHBhcnRpZ2h0ZW5mYWN0b3IwCgpc
+						ZjBcYlxmczI2IFxjZjIgQnkKXGYx
+						XGIwIAkJOiBNYXJ0aW4gWmhhbmdc
+						CgpcZjBcYiBDcmVhdGVkClxmMVxi
+						MCAgCTogMDIvMTcvMjAyMSwgOTo1
+						OCBBTSBFVFwKClxmMFxiIE1vZGlm
+						aWVkClxmMVxiMCAJOiAgXAoKXGYw
+						XGIgVmVyc2lvbgpcZjFcYjAgCTog
+						MS4wXApcCgpcZjBcYiBQdXJwb3Nl
+						ClxmMVxiMCA6XApUbyBzZXQgYSBu
+						ZXcgZXZlbnQgZm9yIENhbGVuZGFy
+						LlwKXAoKXGYwXGIgQ29tbWVudApc
+						ZjFcYjAgOlwKXHBhcmRcdHg1NjBc
+						dHgxMTIwXHR4MTY4MFx0eDIyNDBc
+						dHgyODAwXHR4MzM2MFx0eDM5MjBc
+						dHg0NDgwXHR4NTA0MFx0eDU2MDBc
+						dHg2MTYwXHR4NjcyMFxwYXJkaXJu
+						YXR1cmFsXHBhcnRpZ2h0ZW5mYWN0
+						b3IwCgpcZjIgXGNmMiBcJ2ExXCdh
+						NApcZjEgVGhlIGRlZmF1bHQgc3Rh
+						cnQgZGF0ZSBpcyBzZXQgdG8gdGhl
+						IGRhdGUgb2YgdGhlIGN1cnJlbnQg
+						ZGF5LiBJZiB5b3Ugd2FudCB0byBj
+						aGFuZ2UgaXQsIHBsZWFzZSBmb2xs
+						b3cgdGhlIGZvcm1hdCBvZiB0aGUg
+						ZGF0ZSBzbyB0aGF0IHRoZSBBcHBs
+						ZVNjcmlwdCBjYW4gcmVjb2duaXpl
+						IHRoZSBkYXRlLiBJdCBjYW4gdGFr
+						ZSBmb3JtYXRzIHN1Y2ggYXMgIkZl
+						YiAxNywgMjAyMSIgb3IgIjAyLzE3
+						LzIwMjEiLlwKClxmMyBcJzgxXCc0
+						NQpcZjEgVGhlIGR1cmF0aW9uIGlz
+						IHNldCBpbiBtaW51dGVzLlwKClxm
+						MyBcJzgxXCc0NQpcZjEgVGhlIGFs
+						ZXJ0QmVmb3JlIHRpbWUgaXMgYWxz
+						byBzZXQgaW4gbWludXRlcy4gIi0z
+						MCIgbWVhbnMgMzAgbWluIGJlZm9y
+						ZSB0aGUgZXZlbnQgYmVnaW5zLiBJ
+						ZiB5b3UgcHV0IGEgcG9zaXRpdmUg
+						bnVtYmVyLCBpdCB3aWxsIGJlIGNv
+						bnZlcnRlZCBpbnRvIGEgbmVnYXRp
+						dmUgbnVtYmVyLiBJZiB5b3Ugd2Fu
+						dCBhbiBhbGVydCBhZnRlciB0aGUg
+						ZXZlbnQsIHlvdSBtYXkgZGlzYWJs
+						ZSB0aGUgbmV4dCAiSUYuLi5USEVO
+						Li4uIiBhY3Rpb24gYW5kIHRoZW4g
+						c2V0IGEgcG9zaXRpdmUgbnVtYmVy
+						IHRvIGl0Ln0BAAAAIwAAAAEAAAAH
+						AAAAVFhULnJ0ZhAAAACHQy1gtgEA
+						AAAAAAAAAAAA
+						</data>
+						<key>Title</key>
+						<string>Note</string>
+					</dict>
+					<dict>
+						<key>Buttons</key>
+						<array>
+							<dict>
+								<key>Button</key>
+								<string>OK</string>
+							</dict>
+							<dict>
+								<key>Button</key>
+								<string>Cancel</string>
+								<key>Cancel</key>
+								<true/>
+							</dict>
+						</array>
+						<key>IsActive</key>
+						<false/>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>PromptForUserInput</string>
+						<key>Prompt</key>
+						<string></string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>Title</key>
+						<string>Input the Calendar information</string>
+						<key>Variables</key>
+						<array>
+							<dict>
+								<key>Default</key>
+								<string></string>
+								<key>Variable</key>
+								<string>Local__Event</string>
+							</dict>
+							<dict>
+								<key>Default</key>
+								<string>%ICUDateTime%MMM dd, yyyy%</string>
+								<key>Variable</key>
+								<string>Local__theStartDate</string>
+							</dict>
+							<dict>
+								<key>Default</key>
+								<string>20</string>
+								<key>Variable</key>
+								<string>Local__hours</string>
+							</dict>
+							<dict>
+								<key>Default</key>
+								<string>00</string>
+								<key>Variable</key>
+								<string>Local__minutes</string>
+							</dict>
+							<dict>
+								<key>Default</key>
+								<string>3600</string>
+								<key>Variable</key>
+								<string>Local__duration</string>
+							</dict>
+							<dict>
+								<key>Default</key>
+								<string></string>
+								<key>Variable</key>
+								<string>Local__location</string>
+							</dict>
+							<dict>
+								<key>Default</key>
+								<string></string>
+								<key>Variable</key>
+								<string>Local__description</string>
+							</dict>
+							<dict>
+								<key>Default</key>
+								<string></string>
+								<key>Variable</key>
+								<string>Local__url</string>
+							</dict>
+						</array>
+					</dict>
+					<dict>
+						<key>Buttons</key>
+						<array>
+							<dict>
+								<key>Button</key>
+								<string>OK</string>
+							</dict>
+							<dict>
+								<key>Button</key>
+								<string>Cancel</string>
+								<key>Cancel</key>
+								<true/>
+							</dict>
+						</array>
+						<key>MacroActionType</key>
+						<string>PromptForUserInput</string>
+						<key>Prompt</key>
+						<string>・The duration is set in minutes.
+・The alertBefore time is also set in minutes. "-30" means 30 min before the event begins. If you put a positive number, it will be converted into a negative number. If you want an alert after the event, you may disable the next "IF...THEN..." action and then set a positive number to it.</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>Title</key>
+						<string>Input the Calendar information</string>
+						<key>Variables</key>
+						<array>
+							<dict>
+								<key>Default</key>
+								<string></string>
+								<key>Variable</key>
+								<string>Local__Event</string>
+							</dict>
+							<dict>
+								<key>Default</key>
+								<string>%ICUDateTime%MM/dd/yyyy%</string>
+								<key>Variable</key>
+								<string>Local__theStartDate</string>
+							</dict>
+							<dict>
+								<key>Default</key>
+								<string>20</string>
+								<key>Variable</key>
+								<string>Local__hours</string>
+							</dict>
+							<dict>
+								<key>Default</key>
+								<string>00</string>
+								<key>Variable</key>
+								<string>Local__minutes</string>
+							</dict>
+							<dict>
+								<key>Default</key>
+								<string>60</string>
+								<key>Variable</key>
+								<string>Local__duration</string>
+							</dict>
+							<dict>
+								<key>Default</key>
+								<string></string>
+								<key>Variable</key>
+								<string>Local__alertBefore</string>
+							</dict>
+							<dict>
+								<key>Default</key>
+								<string></string>
+								<key>Variable</key>
+								<string>Local__location</string>
+							</dict>
+							<dict>
+								<key>Default</key>
+								<string></string>
+								<key>Variable</key>
+								<string>Local__description</string>
+							</dict>
+							<dict>
+								<key>Default</key>
+								<string></string>
+								<key>Variable</key>
+								<string>Local__url</string>
+							</dict>
+						</array>
+					</dict>
+					<dict>
+						<key>ActionColor</key>
+						<string>Magenta</string>
+						<key>Conditions</key>
+						<dict>
+							<key>ConditionList</key>
+							<array>
+								<dict>
+									<key>ConditionType</key>
+									<string>Variable</string>
+									<key>Variable</key>
+									<string>Local__alertBefore</string>
+									<key>VariableConditionType</key>
+									<string>GreaterThan</string>
+									<key>VariableValue</key>
+									<string>0</string>
+								</dict>
+							</array>
+							<key>ConditionListMatch</key>
+							<string>All</string>
+						</dict>
+						<key>ElseActions</key>
+						<array/>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>IfThenElse</string>
+						<key>ThenActions</key>
+						<array>
+							<dict>
+								<key>MacroActionType</key>
+								<string>SetVariableToCalculation</string>
+								<key>Text</key>
+								<string>0 - Local__alertBefore</string>
+								<key>UseFormat</key>
+								<false/>
+								<key>Variable</key>
+								<string>Local__alertBefore</string>
+							</dict>
+						</array>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>DisplayKind</key>
+						<string>Briefly</string>
+						<key>HonourFailureSettings</key>
+						<true/>
+						<key>IncludeStdErr</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>ExecuteAppleScript</string>
+						<key>Path</key>
+						<string></string>
+						<key>Text</key>
+						<string>set kmInst to system attribute "KMINSTANCE"tell application "Keyboard Maestro Engine"	set theDateKM to getvariable "Local__theStartDate" instance kmInst	set hoursKM to getvariable "Local__hours" instance kmInst	set minutesKM to getvariable "Local__minutes" instance kmInst	set durationKM to getvariable "Local__duration" instance kmInst	set alertKM to getvariable "Local__alertBefore" instance kmInst	set summaryKM to getvariable "Local__Event" instance kmInst	set locationKM to getvariable "Local__location" instance kmInst	set descriptionKM to getvariable "Local__description" instance kmInst	set urlKM to getvariable "Local__url" instance kmInstend tellset theStartDate to date theDateKMset hours of theStartDate to hoursKMset minutes of theStartDate to minutesKMset seconds of theStartDate to 0set theEndDate to theStartDate + durationKM * 60tell application "Calendar"	activate	tell calendar "default" -- the name of your calendar		set newEvent to make new event with properties {summary:summaryKM, location:locationKM, description:descriptionKM, start date:theStartDate, end date:theEndDate, url:urlKM}				tell newEvent			make new sound alarm at end of sound alarms with properties {trigger interval:alertKM, sound name:"Sosumi"}		end tell	end tellend tell</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>TrimResults</key>
+						<true/>
+						<key>TrimResultsNew</key>
+						<true/>
+						<key>UseText</key>
+						<true/>
+					</dict>
+				</array>
+				<key>CreationDate</key>
+				<real>619491989.76127803</real>
+				<key>CustomIconData</key>
+				<string>KMEP-GenericApplication-/System/Applications/Calendar.app</string>
+				<key>ModificationDate</key>
+				<real>635271970.44492805</real>
+				<key>Name</key>
+				<string>Calendar_New Event</string>
+				<key>Triggers</key>
+				<array/>
+				<key>UID</key>
+				<string>89055C4B-FA83-45D0-9E51-62281067E978</string>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>Macros by Martin</string>
+		<key>Theme</key>
+		<dict>
+			<key>Theme</key>
+			<string>Blue Night</string>
+			<key>UseDefaultInstead</key>
+			<false/>
+		</dict>
+		<key>ToggleMacroUID</key>
+		<string>0FB23665-E570-4BA2-9728-613184E45782</string>
+		<key>UID</key>
+		<string>749C52A2-6AB1-46FF-AB82-C9175DC252D9</string>
+	</dict>
+</array>
+</plist>
