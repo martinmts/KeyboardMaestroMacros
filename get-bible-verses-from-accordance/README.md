@@ -14,9 +14,9 @@
 
 1. Double-click to install the macro to Keyboard Maestro.
 
-2. Put the two AppleScript files to the "~/Library/Scripts/" folder.
+2. Put the two AppleScript files to the `~/Library/Scripts/` folder.
 
-3. Put the three user Bible files to the "~/Library/Application Support/Accordance/Modules/Texts" folder.
+3. Put the three user Bible files to the `~/Library/Application Support/Accordance/Modules/Texts` folder.
 
 ### Done! You may try out macros 1–6.
 
