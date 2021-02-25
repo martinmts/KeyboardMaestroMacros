@@ -42,4 +42,4 @@
 
 #### Macro no. 6:
 
-[Link Text](https://i.imgur.com/OaH017k.png)
+![](https://i.imgur.com/OaH017k.png)
