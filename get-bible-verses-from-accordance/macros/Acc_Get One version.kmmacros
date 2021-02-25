@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>CreationDate</key>
+		<real>635814692.64426601</real>
+		<key>CustomIconData</key>
+		<string>KMEC=Circle=KMCOLOR:253,128,8,255=☥=86=2=0=0=KMCOLOR:0,0,0,255</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>ActionColor</key>
+						<string>Purple</string>
+						<key>MacroActionType</key>
+						<string>Comment</string>
+						<key>StyledText</key>
+						<data>
+						cnRmZAAAAAADAAAAAgAAAAcAAABU
+						WFQucnRmAQAAAC54BQAAKwAAAAEA
+						AABwBQAAe1xydGYxXGFuc2lcYW5z
+						aWNwZzEyNTJcY29jb2FydGYyNTc4
+						Clxjb2NvYXRleHRzY2FsaW5nMFxj
+						b2NvYXBsYXRmb3JtMHtcZm9udHRi
+						bFxmMFxmc3dpc3NcZmNoYXJzZXQw
+						IEhlbHZldGljYS1Cb2xkO1xmMVxm
+						c3dpc3NcZmNoYXJzZXQwIEhlbHZl
+						dGljYTt9CntcY29sb3J0Ymw7XHJl
+						ZDI1NVxncmVlbjI1NVxibHVlMjU1
+						O1xyZWQwXGdyZWVuMFxibHVlMDt9
+						CntcKlxleHBhbmRlZGNvbG9ydGJs
+						OztcY3NzcmdiXGMwXGMwXGMwXGM4
+						NDcwNlxjbmFtZSBjb250cm9sVGV4
+						dENvbG9yO30KXHBhcmRcdHg1NjBc
+						dHgxMTIwXHR4MTY4MFx0eDIyNDBc
+						dHgyODAwXHR4MzM2MFx0eDM5MjBc
+						dHg0NDgwXHR4NTA0MFx0eDU2MDBc
+						dHg2MTYwXHR4NjcyMFxwYXJkaXJu
+						YXR1cmFsXHBhcnRpZ2h0ZW5mYWN0
+						b3IwCgpcZjBcYlxmczI2IFxjZjIg
+						QnkKXGYxXGIwIAkJOiBNYXJ0aW4g
+						WmhhbmdcCgpcZjBcYiBDcmVhdGVk
+						ClxmMVxiMCAgCTogMDIvMjMvMjAy
+						MSwgNjo0OSBQTSBFVFwKClxmMFxi
+						IE1vZGlmaWVkClxmMVxiMCAJOiAg
+						XAoKXGYwXGIgVmVyc2lvbgpcZjFc
+						YjAgCTogMS4wXApcCgpcZjBcYiBQ
+						dXJwb3NlClxmMVxiMCA6IEdldCBC
+						aWJsZSB2ZXJzZXMgZnJvbSBBY2Nv
+						cmRhbmNlLlwKXAoKXGYwXGIgQ29t
+						bWVudApcZjFcYjAgOiBUaGlzIG1h
+						Y3JvIGlzIGludGVuZGVkIHRvIGJl
+						IGNhbGxlZCBieSBvdGhlciBtYWNy
+						b3MuXApccGFyZFx0eDU2MFx0eDEx
+						MjBcdHgxNjgwXHR4MjI0MFx0eDI4
+						MDBcdHgzMzYwXHR4MzkyMFx0eDQ0
+						ODBcdHg1MDQwXHR4NTYwMFx0eDYx
+						NjBcdHg2NzIwXHBhcmRpcm5hdHVy
+						YWxccGFydGlnaHRlbmZhY3RvcjAK
+						XGNmMiBcCk5vdGU6IFlvdSBuZWVk
+						IHR3byBBcHBsZVNjcmlwdCBmaWxl
+						cyBzdG9yZWQgaW4gdGhpcyBmb2xk
+						ZXI6ICIKXGYwXGIgfi9MaWJyYXJ5
+						L1NjcmlwdHMvClxmMVxiMCAiLlwK
+						MS4gClxmMFxiIEFjY29yZGFuY2Ug
+						U2NyaXB0IExpYnJhcnkuc2NwdApc
+						ZjFcYjAgIChieSBKb2UgV2Vha3M6
+						IHtcZmllbGR7XCpcZmxkaW5zdHtI
+						WVBFUkxJTksgImh0dHBzOi8vbWFj
+						YmlibGlvYmxvZy5ibG9nc3BvdC5j
+						b20vMjAwOS8wMS9kb3dubG9hZHMu
+						aHRtbCJ9fXtcZmxkcnNsdCBodHRw
+						czovL21hY2JpYmxpb2Jsb2cuYmxv
+						Z3Nwb3QuY29tLzIwMDkvMDEvZG93
+						bmxvYWRzLmh0bWx9fSkuXAoyLiAK
+						XGYwXGIgTWFydGluIFNjcmlwdCBM
+						aWJyYXJ5LnNjcHQKXGYxXGIwICAo
+						YnkgTWFydGluIFpoYW5nKS5cClwK
+						My4gWW91IG1heSBhbHNvIG5lZWQg
+						dGhlIENVU1wnYjAgdXNlciBCaWJs
+						ZS4gWW91IG1heSBkb3dubG9hZCB0
+						aGUgdXNlciBCaWJsZSBhdDoge1xm
+						aWVsZHtcKlxmbGRpbnN0e0hZUEVS
+						TElOSyAiaHR0cHM6Ly9uaXR1cmVu
+						LmNvbS8/cD0xNDEifX17XGZsZHJz
+						bHQgaHR0cHM6Ly9uaXR1cmVuLmNv
+						bS8/cD0xNDF9fS59AQAAACMAAAAB
+						AAAABwAAAFRYVC5ydGYQAAAAC5U1
+						YLYBAAAAAAAAAAAAAA==
+						</data>
+						<key>Title</key>
+						<string>Note</string>
+					</dict>
+					<dict>
+						<key>DisplayKind</key>
+						<string>None</string>
+						<key>HonourFailureSettings</key>
+						<true/>
+						<key>IncludeStdErr</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>ExecuteAppleScript</string>
+						<key>Path</key>
+						<string>~/Dropbox/Apps/Keyboard Maestro/AppleScript for KM/Acc_GetVerse-OneVersion.scpt</string>
+						<key>Text</key>
+						<string>-- 从 KM 获取变量。tell application "Keyboard Maestro Engine"	set theReference to getvariable "BibleRef"	set theBibleVersion to getvariable "BibleVersion"end tell--用到的函数： ~/Library/Scripts/Martin Script Library.scptset myScriptLibrary to load script alias ((path to scripts folder as text) &amp; "Martin Script Library.scpt")tell myScriptLibrary	oneModuleVerseLookup(theReference, theBibleVersion)end tell</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>TrimResults</key>
+						<true/>
+						<key>TrimResultsNew</key>
+						<true/>
+						<key>UseText</key>
+						<true/>
+					</dict>
+				</array>
+				<key>CreationDate</key>
+				<real>619751369.22212005</real>
+				<key>IsActive</key>
+				<false/>
+				<key>ModificationDate</key>
+				<real>635817114.53891397</real>
+				<key>Name</key>
+				<string>Acc_Get One version</string>
+				<key>Triggers</key>
+				<array/>
+				<key>UID</key>
+				<string>156D4259-11CC-438C-91A9-FD11A44BAECA</string>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>Biblical Study</string>
+		<key>ToggleMacroUID</key>
+		<string>DA89462A-5028-4A20-8CF4-68F92236A212</string>
+		<key>UID</key>
+		<string>C061FEFB-D015-4314-985F-676F39AD7385</string>
+	</dict>
+</array>
+</plist>

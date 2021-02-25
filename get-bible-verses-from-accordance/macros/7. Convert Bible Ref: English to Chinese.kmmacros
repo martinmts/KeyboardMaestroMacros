@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>CreationDate</key>
+		<real>635814692.64426601</real>
+		<key>CustomIconData</key>
+		<string>KMEC=Circle=KMCOLOR:253,128,8,255=☥=86=2=0=0=KMCOLOR:0,0,0,255</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>ActionColor</key>
+						<string>Purple</string>
+						<key>MacroActionType</key>
+						<string>Comment</string>
+						<key>StyledText</key>
+						<data>
+						cnRmZAAAAAADAAAAAgAAAAcAAABU
+						WFQucnRmAQAAAC4UBQAAKwAAAAEA
+						AAAMBQAAe1xydGYxXGFuc2lcYW5z
+						aWNwZzEyNTJcY29jb2FydGYyNTc4
+						Clxjb2NvYXRleHRzY2FsaW5nMFxj
+						b2NvYXBsYXRmb3JtMHtcZm9udHRi
+						bFxmMFxmc3dpc3NcZmNoYXJzZXQw
+						IEhlbHZldGljYS1Cb2xkO1xmMVxm
+						c3dpc3NcZmNoYXJzZXQwIEhlbHZl
+						dGljYTt9CntcY29sb3J0Ymw7XHJl
+						ZDI1NVxncmVlbjI1NVxibHVlMjU1
+						O1xyZWQwXGdyZWVuMFxibHVlMDt9
+						CntcKlxleHBhbmRlZGNvbG9ydGJs
+						OztcY3NzcmdiXGMwXGMwXGMwXGM4
+						NDcwNlxjbmFtZSBjb250cm9sVGV4
+						dENvbG9yO30KXHBhcmRcdHg1NjBc
+						dHgxMTIwXHR4MTY4MFx0eDIyNDBc
+						dHgyODAwXHR4MzM2MFx0eDM5MjBc
+						dHg0NDgwXHR4NTA0MFx0eDU2MDBc
+						dHg2MTYwXHR4NjcyMFxwYXJkaXJu
+						YXR1cmFsXHBhcnRpZ2h0ZW5mYWN0
+						b3IwCgpcZjBcYlxmczI2IFxjZjIg
+						QnkKXGYxXGIwIAkJOiBNYXJ0aW4g
+						WmhhbmdcCgpcZjBcYiBDcmVhdGVk
+						ClxmMVxiMCAgCTogMDIvMjMvMjAy
+						MSwgNjowOCBQTSBFVFwKClxmMFxi
+						IE1vZGlmaWVkClxmMVxiMCAJOiAg
+						XAoKXGYwXGIgVmVyc2lvbgpcZjFc
+						YjAgCTogMS4wXApcCgpcZjBcYiBQ
+						dXJwb3NlClxmMVxiMCA6XApccGFy
+						ZFx0eDU2MFx0eDExMjBcdHgxNjgw
+						XHR4MjI0MFx0eDI4MDBcdHgzMzYw
+						XHR4MzkyMFx0eDQ0ODBcdHg1MDQw
+						XHR4NTYwMFx0eDYxNjBcdHg2NzIw
+						XHBhcmRpcm5hdHVyYWxccGFydGln
+						aHRlbmZhY3RvcjAKXGNmMiBUaGlz
+						IG1hY3JvIGNhbiBiZSBjYWxsZWQg
+						Ynkgb3RoZXIgbWFjcm9zLlwKSXQg
+						Y2FuIGFsc28gYmUgdXNlZCB0byBk
+						aXJlY3RseSBmaWx0ZXIgdGhlIFN5
+						c3RlbUNsaXBib2FyZCB3aGVuIGEg
+						YmlibGljYWwgdGV4dCBpcyBjb3Bp
+						ZWQuXApccGFyZFx0eDU2MFx0eDEx
+						MjBcdHgxNjgwXHR4MjI0MFx0eDI4
+						MDBcdHgzMzYwXHR4MzkyMFx0eDQ0
+						ODBcdHg1MDQwXHR4NTYwMFx0eDYx
+						NjBcdHg2NzIwXHBhcmRpcm5hdHVy
+						YWxccGFydGlnaHRlbmZhY3RvcjAK
+						XGNmMiBcCgpcZjBcYiBDb21tZW50
+						ClxmMVxiMCA6XApccGFyZFx0eDU2
+						MFx0eDExMjBcdHgxNjgwXHR4MjI0
+						MFx0eDI4MDBcdHgzMzYwXHR4Mzky
+						MFx0eDQ0ODBcdHg1MDQwXHR4NTYw
+						MFx0eDYxNjBcdHg2NzIwXHBhcmRp
+						cm5hdHVyYWxccGFydGlnaHRlbmZh
+						Y3RvcjAKXGNmMiAxKSBUaGUgYm9v
+						ayBhYmJyZXZpYXRpb25zIHNob3Vs
+						ZCBmb2xsb3cgdGhlIGJvb2sgbmFt
+						ZXMgaW4gdGhlIGV4cG9ydGVkIHRl
+						eHRzLlwKMikgVGhlIGJvb2sgbmFt
+						ZXMgYXJlIGRldGVybWluZWQgYnkg
+						dGhlIHNldHRpbmdzIG9mICJDaXRh
+						dGlvbiIgaW4gdGhlIFByZWZlcmVu
+						Y2UgKEFjY29yZGFuY2UpLn0BAAAA
+						IwAAAAEAAAAHAAAAVFhULnJ0ZhAA
+						AADsijVgtgEAAAAAAAAAAAAA
+						</data>
+						<key>Title</key>
+						<string>Note</string>
+					</dict>
+					<dict>
+						<key>DisplayKind</key>
+						<string>Clipboard</string>
+						<key>HonourFailureSettings</key>
+						<true/>
+						<key>IncludeStdErr</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>ExecuteJavaScriptForAutomation</string>
+						<key>Path</key>
+						<string></string>
+						<key>Text</key>
+						<string>app = Application('System Events');  
+app.includeStandardAdditions = true;  
+
+var ref = app.theClipboard(); 
+
+// the book abbreviations should follow the book names in the exported texts.
+// The book names are determined by the settings of Citation in the Preference.
+// 1,2,3 John must come before John.
+// If you add one item to the refEn list, you must also add a Chinese translation
+// in the refCn list.
+refEn = ["Gen ", "Exod ", "Lev ", "Num ", "Deut ", "Josh ", "Judg ", "Ruth ", "1 Sam ", "2 Sam ", "1 Kgs ", "2 Kgs ", "1 Chr ", "2 Chr ", "Ezra ", "Neh ", "Esth ", "Job ", "Ps ", "Prov ", "Ecc ", "Song ", "Is ", "Isa ", "Jer ", "Lam ", "Ezek ", "Dan ", "Hos ", "Joel ", "Amos ", "Obad ", "Jonah ", "Mic ", "Nah ", "Hab ", "Zeph ", "Hag ", "Zech ", "Mal ", "Matt ", "Mark ", "Luke ", "1 John ", "2 John ", "3 John ", "John ", "Acts ", "Rom ", "1 Cor ", "2 Cor ", "Gal ", "Eph ", "Phi ", "Col ", "1 Thess ", "2 Thess ", "1 Tim ", "2 Tim ", "Titus ", "Phlm ", "Heb ", "Jas ", "1 Pet ", "2 Pet ", "Jude ", "Rev ", "Pss ", "Philemon "];
+
+refCn = ["创 ", "出 ", "利 ", "民 ", "申 ", "书 ", "士 ", "得 ", "撒上 ", "撒下 ", "王上 ", "王下 ", "代上 ", "代下 ", "拉 ", "尼 ", "斯 ", "伯 ", "诗 ", "箴 ", "传 ", "歌 ", "赛 ", "赛 ", "耶 ", "哀 ", "结 ", "但 ", "何 ", "珥 ", "摩 ", "俄 ", "拿 ", "弥 ", "鸿 ", "哈 ", "番 ", "该 ", "亚 ", "玛 ", "太 ", "可 ", "路 ", "约一 ", "约二 ", "约三 ", "约 ", "徒 ", "罗 ", "林前 ", "林后 ", "加 ", "弗 ", "腓 ", "西 ", "帖前 ", "帖后 ", "提前 ", "提后 ", "多 ", "门 ", "来 ", "雅 ", "彼前 ", "彼后 ", "犹 ", "启 ", "诗 ", "门 "];
+
+
+for (i = 0; i &lt; refEn.length; i++) {
+	if ( ref.includes(refEn[i]) ) {
+		ref.replaceAll(refEn[i], refCn[i]);
+		break;
+	}
+}</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>TrimResults</key>
+						<true/>
+						<key>TrimResultsNew</key>
+						<true/>
+						<key>UseText</key>
+						<true/>
+					</dict>
+				</array>
+				<key>CreationDate</key>
+				<real>623034338.84228694</real>
+				<key>ModificationDate</key>
+				<real>635817735.90228605</real>
+				<key>Name</key>
+				<string>7. Convert Bible Ref: English to Chinese</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>FireType</key>
+						<string>Pressed</string>
+						<key>KeyCode</key>
+						<integer>9</integer>
+						<key>MacroTriggerType</key>
+						<string>HotKey</string>
+						<key>Modifiers</key>
+						<integer>6912</integer>
+					</dict>
+				</array>
+				<key>UID</key>
+				<string>CC162EA1-004B-481F-8F5F-65055A803C81</string>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>Biblical Study</string>
+		<key>ToggleMacroUID</key>
+		<string>DA89462A-5028-4A20-8CF4-68F92236A212</string>
+		<key>UID</key>
+		<string>C061FEFB-D015-4314-985F-676F39AD7385</string>
+	</dict>
+</array>
+</plist>
