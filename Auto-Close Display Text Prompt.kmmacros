@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>CreationDate</key>
+		<real>532660533.36080903</real>
+		<key>CustomIconData</key>
+		<string>KMEP-ToolbarCustomize</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>ActionColor</key>
+						<string>Purple</string>
+						<key>MacroActionType</key>
+						<string>Comment</string>
+						<key>StyledText</key>
+						<data>
+						cnRmZAAAAAADAAAAAgAAAAcAAABU
+						WFQucnRmAQAAAC4uBgAAKwAAAAEA
+						AAAmBgAAe1xydGYxXGFuc2lcYW5z
+						aWNwZzEyNTJcY29jb2FydGYyNTc4
+						Clxjb2NvYXRleHRzY2FsaW5nMFxj
+						b2NvYXBsYXRmb3JtMHtcZm9udHRi
+						bFxmMFxmc3dpc3NcZmNoYXJzZXQw
+						IEhlbHZldGljYS1Cb2xkO1xmMVxm
+						c3dpc3NcZmNoYXJzZXQwIEhlbHZl
+						dGljYTtcZjJcZm5pbFxmY2hhcnNl
+						dDEzNCBQaW5nRmFuZ1NDLVJlZ3Vs
+						YXI7ClxmM1xmc3dpc3NcZmNoYXJz
+						ZXQwIEhlbHZldGljYS1PYmxpcXVl
+						O30Ke1xjb2xvcnRibDtccmVkMjU1
+						XGdyZWVuMjU1XGJsdWUyNTU7XHJl
+						ZDBcZ3JlZW4wXGJsdWUwO30Ke1wq
+						XGV4cGFuZGVkY29sb3J0Ymw7O1xj
+						c3NyZ2JcYzBcYzBcYzBcYzg0NzA2
+						XGNuYW1lIGNvbnRyb2xUZXh0Q29s
+						b3I7fQpccGFyZFx0eDU2MFx0eDEx
+						MjBcdHgxNjgwXHR4MjI0MFx0eDI4
+						MDBcdHgzMzYwXHR4MzkyMFx0eDQ0
+						ODBcdHg1MDQwXHR4NTYwMFx0eDYx
+						NjBcdHg2NzIwXHBhcmRpcm5hdHVy
+						YWxccGFydGlnaHRlbmZhY3RvcjAK
+						ClxmMFxiXGZzMjYgXGNmMiBCeQpc
+						ZjFcYjAgCQk6IE1hcnRpbiBaaGFu
+						Z1wKClxmMFxiIENyZWF0ZWQKXGYx
+						XGIwICAJOiAwNC8xNC8yMDIxLCA4
+						OjIyIFBNIEVUXAoKXGYwXGIgTW9k
+						aWZpZWQKXGYxXGIwIAk6ICBcCgpc
+						ZjBcYiBWZXJzaW9uClxmMVxiMCAJ
+						OiAxLjBcClwKClxmMFxiIFB1cnBv
+						c2UKXGYxXGIwIDpcCgpcZjIgXCdh
+						MVwnYTQKXGYxIERpc3BsYXkgdGhl
+						IHZhbHVlIG9mIHRoZSAKXGYzXGkg
+						dmFyaWFibGUKXGYxXGkwICAiClxm
+						MFxiIERpc3BsYXlUZXh0ClxmMVxi
+						MCAiIGluIGEgQ3VzdG9tIEhUTUwg
+						UHJvbXB0IHdpbmRvdyBcCgl3aGlj
+						aCAKXGYzXGkgYXV0b21hdGljYWxs
+						eSBjbG9zZXMKXGYxXGkwICBpbiAx
+						NXMgKG1heSBiZSBjdXN0b21pemVk
+						KS5cCgpcZjIgXCdhMVwnYTQKXGYx
+						IFRoZSB3aW5kb3cgaXMgClxmM1xp
+						IHJlc2l6YWJsZQpcZjFcaTAgLlwK
+						ClxmMiBcJ2ExXCdhNApcZjEgSXQg
+						YWxsb3dzIHVzZXJzIHRvIApcZjNc
+						aSBlZGl0IHRoZSBkaXNwbGF5ZWQg
+						dGV4dApcZjFcaTAgLlwKClxmMiBc
+						J2ExXCdhNApcZjEgSXQgcHJvdmlk
+						ZXMgYSBidXR0b24gdG8gClxmM1xp
+						IGNvcHkKXGYxXGkwICB0aGUgZGlz
+						cGxheWVkIHRleHQuXAoKXGYyIFwn
+						YTFcJ2E0ClxmMSBUaGUgY291bnRk
+						b3duIHRpbWVyIG1heSBiZSAKXGYz
+						XGkgcGF1c2VkClxmMVxpMCAsIApc
+						ZjNcaSByZXN1bWVkClxmMVxpMCAs
+						IGFuZCAKXGYzXGkgcmVzdGFydGVk
+						ClxmMVxpMCAuXApcCgpcZjBcYiBI
+						b3cgdG8gVXNlClxmMVxiMCA6XApP
+						cHRpb24gMS4gRm9yIEV4ZWN1dGUg
+						U2NyaXB0IGFjdGlvbnMsIHNhdmUg
+						dGhlIG91dHB1dCB0ZXh0IHRvIGEg
+						dmFyaWFibGUgbmFtZWQgIkRpc3Bs
+						YXlUZXh0IiwgXAoJdGhlbiBleGVj
+						dXRlIHRoaXMgbWFjcm8gYXMgYSBz
+						dWJtYWNybyAob3IgYWRkIHRoZSBh
+						Y3Rpb24gZGlyZWN0bHkgdG8gdGhl
+						IG1hY3JvKS5cCk9wdGlvbiAyLiBV
+						c2UgdGhlICJTZXQgVmFyaWFibGUg
+						dG8gVGV4dCIgdG8gc2V0IGEgdmFy
+						aWFibGUgbmFtZWQgIkRpc3BsYXlU
+						ZXh0IixcCgl0aGVuIGV4ZWN1dGUg
+						dGhpcyBtYWNybyBhcyBhIHN1Ym1h
+						Y3JvIChvciBhZGQgdGhlIGFjdGlv
+						biBkaXJlY3RseSB0byB0aGUgbWFj
+						cm8pLn0BAAAAIwAAAAEAAAAHAAAA
+						VFhULnJ0ZhAAAAB6jXdgtgEAAAAA
+						AAAAAAAA
+						</data>
+						<key>Title</key>
+						<string>Note</string>
+					</dict>
+					<dict>
+						<key>Asynchronously</key>
+						<true/>
+						<key>Floating</key>
+						<true/>
+						<key>MacroActionType</key>
+						<string>CustomPrompt</string>
+						<key>Resizable</key>
+						<true/>
+						<key>StopOnFailure</key>
+						<false/>
+						<key>Text</key>
+						<string>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;meta charset="utf-8"&gt;
+    &lt;title&gt;Display Text&lt;/title&gt;
+    &lt;style&gt;
+		body {
+			background-color: whitesmoke;
+			margin: 10px;
+		}
+		textarea {
+			width: 99%;
+			height: 95%;
+			min-height: 250px;
+			font-size: 16px;
+		}
+		#buttonDiv {
+		  margin-top: 5px;
+		  margin-right: 20px;
+		  text-align: right;
+		}
+		button {
+			margin-right: 10px;
+			width: 100px;
+			height: 25px;
+			cursor: pointer;
+			border-radius: 6px;
+			color: white;
+		}
+		#copy {
+			background-color: silver;
+		}
+		#ok {
+			background-color: #008EFB;
+		}
+		
+		p {
+			margin-top: 8px;
+			text-align:center;
+			color:green
+		}
+		#counter {
+			color: red;
+		}
+    &lt;/style&gt;
+	
+&lt;script&gt;
+
+	var timerSwitch = '';
+	
+	setInterval(function(){	countdown(); },1000);
+
+
+    function KMInit() {
+        window.addEventListener("keydown", function (e) {
+            if (e.keyCode == 13) { // press 'return' to close the window.
+                window.close();
+            }
+        });
+    }
+
+    function KMDidShowWindow() {
+		resizeTextArea();
+    }
+
+	function countdown() {
+    	let i = document.querySelector('#counter');
+
+		if (timerSwitch != 'pause'){
+			i.innerHTML = parseInt(i.innerHTML) -1;
+		}
+		if (parseInt(i.innerHTML)&lt;=0) {
+			window.close();
+		}
+	}
+
+	function resizeTextArea(){
+		var h = window.innerHeight;
+		document.querySelector('#text').style.height = h - 110 + 'px';
+	}
+	
+	function copyText(){
+		let text = document.querySelector('#text');
+		text.select();
+		document.execCommand("copy");
+	}
+	
+	function controlTimer(){
+		if (timerSwitch == 'pause') {
+			timerSwitch = '';
+			document.querySelector('#control').innerText = 'Pause Timer';
+			document.querySelector('#control').style.color = 'white';
+		} else {
+			timerSwitch = 'pause';
+			document.querySelector('#control').innerText = 'Resume Timer';
+			document.querySelector('#control').style.color = 'red';
+		}
+	}
+
+	function restartTimer(){
+		let j = document.querySelector('#counter');
+		j.innerHTML = 15;
+	}
+&lt;/script&gt;
+
+  &lt;/head&gt;
+  &lt;body data-kmwidth='520' data-kmheight='380'&gt;
+
+	The text is:
+	&lt;textarea id="text" name="DisplayText"&gt;	&lt;/textarea&gt;
+	
+	&lt;div id='buttonDiv'&gt;
+		&lt;button type="button" id="restart" onclick="restartTimer()"&gt;Restart Timer&lt;/button&gt;
+		&lt;button type="button" id="control" onclick="controlTimer()"&gt;Pause Timer&lt;/button&gt;
+		&lt;button type="button" id="copy" onclick="copyText()"&gt;Copy Text&lt;/button&gt;
+		&lt;button type="button" id="ok" onclick="window.close()"&gt;OK&lt;/button&gt;
+	&lt;/div&gt;
+
+	&lt;p&gt;
+		This window will close automatically within &lt;span id="counter"&gt;15&lt;/span&gt; second(s).
+	&lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>UseText</key>
+						<true/>
+					</dict>
+				</array>
+				<key>CreationDate</key>
+				<real>640126706.21922398</real>
+				<key>ModificationDate</key>
+				<real>640140734.53702998</real>
+				<key>Name</key>
+				<string>Auto-Close Display Text Prompt</string>
+				<key>Triggers</key>
+				<array/>
+				<key>UID</key>
+				<string>9E1DA0C0-BD17-4B5B-960B-4A97225444FC</string>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>T - Test Group</string>
+		<key>ToggleMacroUID</key>
+		<string>5C0BFA63-66B6-40E9-B4B1-CEAB325D0C73</string>
+		<key>UID</key>
+		<string>3EFDF5A4-7330-43B2-AE68-879A8DEFCCA3</string>
+	</dict>
+</array>
+</plist>

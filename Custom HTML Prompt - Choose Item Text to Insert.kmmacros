@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>CreationDate</key>
+		<real>532660533.36080903</real>
+		<key>CustomIconData</key>
+		<string>KMEP-ToolbarCustomize</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>ActionColor</key>
+						<string>Purple</string>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>Comment</string>
+						<key>StyledText</key>
+						<data>
+						cnRmZAAAAAADAAAAAgAAAAcAAABU
+						WFQucnRmAQAAAC7lDQAAKwAAAAEA
+						AADdDQAAe1xydGYxXGFuc2lcYW5z
+						aWNwZzEyNTJcY29jb2FydGYyNTc4
+						Clxjb2NvYXRleHRzY2FsaW5nMFxj
+						b2NvYXBsYXRmb3JtMHtcZm9udHRi
+						bFxmMFxmc3dpc3NcZmNoYXJzZXQw
+						IEhlbHZldGljYS1Cb2xkO1xmMVxm
+						c3dpc3NcZmNoYXJzZXQwIEhlbHZl
+						dGljYTtcZjJcZnN3aXNzXGZjaGFy
+						c2V0MCBIZWx2ZXRpY2EtQm9sZE9i
+						bGlxdWU7ClxmM1xmbmlsXGZjaGFy
+						c2V0MTM0IFBpbmdGYW5nU0MtUmVn
+						dWxhcjtcZjRcZm5pbFxmY2hhcnNl
+						dDEzNCBQaW5nRmFuZ1NDLVNlbWli
+						b2xkO1xmNVxmc3dpc3NcZmNoYXJz
+						ZXQwIEhlbHZldGljYS1PYmxpcXVl
+						OwpcZjZcZm5pbFxmY2hhcnNldDAg
+						TWVubG8tUmVndWxhcjt9CntcY29s
+						b3J0Ymw7XHJlZDI1NVxncmVlbjI1
+						NVxibHVlMjU1O1xyZWQwXGdyZWVu
+						MFxibHVlMDtccmVkMTk0XGdyZWVu
+						MTI2XGJsdWUxMDE7XHJlZDIzXGdy
+						ZWVuMjNcYmx1ZTIzOwpccmVkMTk0
+						XGdyZWVuMTI2XGJsdWUxMDE7XHJl
+						ZDIzXGdyZWVuMjNcYmx1ZTIzO30K
+						e1wqXGV4cGFuZGVkY29sb3J0Ymw7
+						O1xjc3NyZ2JcYzBcYzBcYzBcYzg0
+						NzA2XGNuYW1lIGNvbnRyb2xUZXh0
+						Q29sb3I7XGNzc3JnYlxjODA3ODRc
+						YzU2ODYzXGM0NzA1OTtcY3Nzcmdi
+						XGMxMTc2NVxjMTE3NjVcYzExNzY1
+						OwpcY3NzcmdiXGM4MDc4NFxjNTY4
+						NjNcYzQ3MDU5O1xjc3NyZ2JcYzEx
+						NzY1XGMxMTc2NVxjMTE3NjU7fQpc
+						cGFyZFx0eDU2MFx0eDExMjBcdHgx
+						NjgwXHR4MjI0MFx0eDI4MDBcdHgz
+						MzYwXHR4MzkyMFx0eDQ0ODBcdHg1
+						MDQwXHR4NTYwMFx0eDYxNjBcdHg2
+						NzIwXHBhcmRpcm5hdHVyYWxccGFy
+						dGlnaHRlbmZhY3RvcjAKClxmMFxi
+						XGZzMjYgXGNmMiBCeQpcZjFcYjAg
+						CQk6IE1hcnRpbiBaaGFuZ1wKClxm
+						MFxiIENyZWF0ZWQKXGYxXGIwICAJ
+						OiAwNC8wMy8yMDIxLCAxMDo0MiBB
+						TSBFVFwKClxmMFxiIE1vZGlmaWVk
+						ClxmMVxiMCAJOiAgXAoKXGYwXGIg
+						VmVyc2lvbgpcZjFcYjAgCTogMS4w
+						XApcCgpcZjBcYiBQdXJwb3NlClxm
+						MVxiMCA6XApUaGlzIG1hY3JvIGFs
+						bG93cyB1c2VycyB0byAKXGYyXGlc
+						YiBjbGljawpcZjFcaTBcYjAgIGFu
+						IGl0ZW0gaW4gdGhlIEN1c3RvbSBI
+						VE1MIFByb21wdCB0byAKXGYwXGIg
+						aW5zZXJ0ClxmMVxiMCAgdGhlIGl0
+						ZW0uXApccGFyZFx0eDU2MFx0eDEx
+						MjBcdHgxNjgwXHR4MjI0MFx0eDI4
+						MDBcdHgzMzYwXHR4MzkyMFx0eDQ0
+						ODBcdHg1MDQwXHR4NTYwMFx0eDYx
+						NjBcdHg2NzIwXHBhcmRpcm5hdHVy
+						YWxccGFydGlnaHRlbmZhY3RvcjAK
+						ClxmMyBcY2YyIFwnYTFcJ2E0WW91
+						IGNhbiB1c2UgdGhlIG51bWJlciBr
+						ZXlzIDEtOSBhcyBzaG9ydGN1dHMg
+						dG8gaW5zZXJ0IHRoZSBmaXJzdCAx
+						LTkgaXRlbXMuXApccGFyZFx0eDU2
+						MFx0eDExMjBcdHgxNjgwXHR4MjI0
+						MFx0eDI4MDBcdHgzMzYwXHR4Mzky
+						MFx0eDQ0ODBcdHg1MDQwXHR4NTYw
+						MFx0eDYxNjBcdHg2NzIwXHBhcmRp
+						cm5hdHVyYWxccGFydGlnaHRlbmZh
+						Y3RvcjAKClxmMSBcY2YyIFwKXHBh
+						cmRcdHg1NjBcdHgxMTIwXHR4MTY4
+						MFx0eDIyNDBcdHgyODAwXHR4MzM2
+						MFx0eDM5MjBcdHg0NDgwXHR4NTA0
+						MFx0eDU2MDBcdHg2MTYwXHR4Njcy
+						MFxwYXJkaXJuYXR1cmFsXHBhcnRp
+						Z2h0ZW5mYWN0b3IwCgpcZjRcYiBc
+						Y2YyIFVzYWdlOgpcZjNcYjAgXApc
+						J2ExXCdhNApcZjEgSSB1c2UgaXQg
+						YXMgYSAKXGY1XGkgdGVtcG9yYXJ5
+						ClxmMVxpMCAgbGlzdCBvZiBpdGVt
+						cyB0aGF0IGNvbnRhaW4gClxmNVxp
+						IHNwZWNpYWwgY2hhcmFjdGVycwpc
+						ZjFcaTAgIHRoYXQgYXJlIG5vdCBl
+						YXN5IHRvIHR5cGUuXApccGFyZFx0
+						eDU2MFx0eDExMjBcdHgxNjgwXHR4
+						MjI0MFx0eDI4MDBcdHgzMzYwXHR4
+						MzkyMFx0eDQ0ODBcdHg1MDQwXHR4
+						NTYwMFx0eDYxNjBcdHg2NzIwXHBh
+						cmRpcm5hdHVyYWxccGFydGlnaHRl
+						bmZhY3RvcjAKClxmMyBcY2YyIFwn
+						YTFcJ2E0SXQgaXMgbGlrZSBhIHN0
+						YXJyZWQgbGlzdCBpbiBhIApcZjEg
+						Y2xpcGJvYXJkIG1hbmFnZW1lbnQs
+						IGJ1dCBpdCBpcyAKXGYzIHNpbXBs
+						ZXIgdG8gdXNlLlwKXApccGFyZFx0
+						eDU2MFx0eDExMjBcdHgxNjgwXHR4
+						MjI0MFx0eDI4MDBcdHgzMzYwXHR4
+						MzkyMFx0eDQ0ODBcdHg1MDQwXHR4
+						NTYwMFx0eDYxNjBcdHg2NzIwXHBh
+						cmRpcm5hdHVyYWxccGFydGlnaHRl
+						bmZhY3RvcjAKClxmMFxiIFxjZjIg
+						SW5zdHJ1Y3Rpb25zClxmMVxiMCA6
+						XApccGFyZFx0eDU2MFx0eDExMjBc
+						dHgxNjgwXHR4MjI0MFx0eDI4MDBc
+						dHgzMzYwXHR4MzkyMFx0eDQ0ODBc
+						dHg1MDQwXHR4NTYwMFx0eDYxNjBc
+						dHg2NzIwXHBhcmRpcm5hdHVyYWxc
+						cGFydGlnaHRlbmZhY3RvcjAKClxm
+						MyBcY2YyIFwnYTFcJ2E0ClxmMSBJ
+						dCBtYWtlcyAKXGY1XGkgZWFjaCBs
+						aW5lClxmMVxpMCAgaW4gdGhlIHZh
+						cmlhYmxlICIKXGY2XGZzMjQgXGNm
+						MyBcY2I0IFxleHBuZDBcZXhwbmR0
+						dzBca2VybmluZzAKRE5EdGV4dExp
+						c3QKXGYxXGZzMjYgXGNmMiBcY2Ix
+						IFxrZXJuaW5nMVxleHBuZDBcZXhw
+						bmR0dzAgIiBhcyAKXGY1XGkgb25l
+						IGl0ZW0KXGYxXGkwIC4gXApccGFy
+						ZFx0eDU2MFx0eDExMjBcdHgxNjgw
+						XHR4MjI0MFx0eDI4MDBcdHgzMzYw
+						XHR4MzkyMFx0eDQ0ODBcdHg1MDQw
+						XHR4NTYwMFx0eDYxNjBcdHg2NzIw
+						XHBhcmRpcm5hdHVyYWxccGFydGln
+						aHRlbmZhY3RvcjAKClxmMyBcY2Yy
+						IAlcJ2ExXCdhNApcZjEgQ3JlYXRl
+						IHRoZSB2YXJpYWJsZSBhbmQgc2V0
+						IGEgbGlzdCBpZiBpdCBkb2Vzbid0
+						IGV4aXN0IHlldC5cCgpcZjMgXCdh
+						MVwnYTRZb3UgY2FuIHB1dCBhIG5l
+						dyBpdGVtIGluIHRoZSAKXGY2XGZz
+						MjQgXGNmNSBcY2I2IFxleHBuZDBc
+						ZXhwbmR0dzBca2VybmluZzAKXG91
+						dGwwXHN0cm9rZXdpZHRoMCBcc3Ry
+						b2tlYzUgaW5wdXQKXGYzXGZzMjYg
+						XGNmMiBcY2IxIFxrZXJuaW5nMVxl
+						eHBuZDBcZXhwbmR0dzAgXG91dGww
+						XHN0cm9rZXdpZHRoMCAgYm94IHRv
+						IGFkZCBuZXcgaXRlbXMgdG8gdGhl
+						IGxpc3QuXApcJ2ExXCdhNENsaWNr
+						IHRoZSAiClxmNlxmczI0IFxjZjUg
+						XGNiNiBcZXhwbmQwXGV4cG5kdHcw
+						XGtlcm5pbmcwClxvdXRsMFxzdHJv
+						a2V3aWR0aDAgXHN0cm9rZWM1IEVk
+						aXQKXGYzXGZzMjYgXGNmMiBcY2Ix
+						IFxrZXJuaW5nMVxleHBuZDBcZXhw
+						bmR0dzAgXG91dGwwXHN0cm9rZXdp
+						ZHRoMCAiIGJ1dHRvbiB0byB0aGUg
+						dmFyaWFibGUgdmFsdWUuXAoJXCdh
+						MVwnYTQgQWx0ZXJuYXRpdmVseSwg
+						eW91IG1heSBlZGl0IHRoZSB2YXJp
+						YWJsZSB2YWx1ZSBpbiBce0tNIHBy
+						ZWZlcmVuY2UgXCdhMVwnZmEgdmFy
+						aWFibGVzXH0uXApcClBTOiBJdCBp
+						cyBsaWtlIHRoZSAiUHJvbXB0IFdp
+						dGggTGlzdCIgYWN0aW9uIGluIEtN
+						LCBidXQgaXQgYWxsb3dzIG1vcmUg
+						Y3VzdG9taXphdGlvbnMuXApcJ2Ex
+						XCdhNEkgdXNlIHRoZSAiClxmNlxm
+						czI0IFxjZjUgXGNiNiBcZXhwbmQw
+						XGV4cG5kdHcwXGtlcm5pbmcwClxv
+						dXRsMFxzdHJva2V3aWR0aDAgXHN0
+						cm9rZWM1IEV6cmEgU0lMClxmM1xm
+						czI2IFxjZjIgXGNiMSBca2Vybmlu
+						ZzFcZXhwbmQwXGV4cG5kdHcwIFxv
+						dXRsMFxzdHJva2V3aWR0aDAgIiBm
+						b250LCBiZWNhdXNlIEknbSBkZWFs
+						aW5nIHdpdGggSGVicmV3IHdvcmRz
+						LiBcCglcJ2ExXCdhNFlvdSBtYXkg
+						Y2hhbmdlIGl0IHRvIGFub3RoZXIg
+						Zm9udC59AQAAACMAAAABAAAABwAA
+						AFRYVC5ydGYQAAAAHY1oYLYBAAAA
+						AAAAAAAAAA==
+						</data>
+						<key>Title</key>
+						<string>Note</string>
+					</dict>
+					<dict>
+						<key>Floating</key>
+						<true/>
+						<key>MacroActionType</key>
+						<string>CustomPrompt</string>
+						<key>Resizable</key>
+						<true/>
+						<key>Text</key>
+						<string>&lt;html&gt;
+ &lt;head&gt;
+  &lt;meta charset=utf-8 /&gt;
+    &lt;title&gt;Insert Clicked Item&lt;/title&gt;
+	&lt;style&gt;
+		body{
+			background-color: whitesmoke;
+			font-family: "Ezra SIL";
+		}
+		table, tr{
+			padding: 2px 5px 2px 5px;
+			width:100%;
+			border: 1px solid #000000; 
+			border-collapse: collapse;
+		}
+		td {
+			padding: 3px;
+			border: 1px solid #000000; 
+			border-collapse: collapse;
+		}
+		input {font-size: 14px; width: 100%;}
+	&lt;/style&gt;
+&lt;script&gt;
+	'use strict';
+	function KMInit() {
+        window.addEventListener("keydown", function (e) {
+            if (e.keyCode == 13) { // "Return" key
+                window.KeyboardMaestro.Submit();
+            }
+
+			// Use the number key as shortcuts to paste the items. Only works for 1-9.
+			if ((e.keyCode &gt;= 49 &amp;&amp; e.keyCode &lt;= 57) || (e.keyCode &gt;= 97 &amp;&amp; e.keyCode &lt;= 105)) {  // 1-9 only
+				let textStr = window.KeyboardMaestro.GetVariable("DNDtextList");
+				let textArr = textStr.split("\n");
+				
+				let clickedItem = textArr[(parseInt(e.key)-1)];
+				window.KeyboardMaestro.SetVariable("InstanceClickedItem", clickedItem);
+				window.KeyboardMaestro.Submit( event );
+			}
+
+        });
+	}
+	function KMDidShowWindow(){
+
+		// get text from the KM variable "DNDtextList", make it into list for click
+		let textStr = window.KeyboardMaestro.GetVariable("DNDtextList");
+		let textArr = textStr.split("\n");
+		var htmlCode = "";
+		var num = 1;
+		textArr.forEach(element =&gt; {
+			let lineCode = '&lt;tr&gt;&lt;td&gt;' + num + '&lt;/td&gt;&lt;td class="listItem" onclick="pasteText(this)"&gt;' + element + '&lt;/td&gt;&lt;/tr&gt;'
+			htmlCode += lineCode;
+			num += 1;
+		});
+		document.querySelector("#textList").innerHTML = '&lt;table&gt;' + htmlCode + '&lt;/table&gt;';
+
+        // set window width and height
+        // Note: width is determined by the width set in the body field.
+        let width = document.querySelector('#wholepage').clientWidth - 75;
+		if (width &lt; 210) {width = 210;}; // set min width;
+        let height = document.querySelector('#wholepage').clientHeight + 12;
+        // resize Window and move to center.
+        window.KeyboardMaestro.ResizeWindow(width + "," + height);
+
+	}
+
+	// save clicked text into the KM variable "InstanceClickedItem"
+	function pasteText(e){
+		window.KeyboardMaestro.SetVariable("InstanceClickedItem", e.textContent);
+		window.KeyboardMaestro.Submit( event );
+	}
+
+	function editList(){
+		window.KeyboardMaestro.SetVariable("InstanceEditList", "1");
+		window.KeyboardMaestro.Submit( event );
+	}
+
+	function submitWindow(event) {
+		window.KeyboardMaestro.Submit( event );
+		}
+	function cancelWindow(event) {
+		window.KeyboardMaestro.Cancel( event );
+		}
+
+&lt;/script&gt;
+
+ &lt;/head&gt;
+
+ &lt;body&gt;
+ &lt;div id="wholepage"&gt;
+
+  &lt;div id="textList"&gt;&lt;/div&gt;
+
+  &lt;div style="color: grey; font-size: 12px;"&gt;Add New Items:&lt;/div&gt;
+  &lt;div&gt;&lt;input class="input" name="InstanceNewListItem" autofocus&gt;&lt;/input&gt;&lt;/div&gt;
+
+      			&lt;!-- ========== BUTTONS ========= --&gt;
+    &lt;div class="buttonDiv"&gt;
+	  &lt;button class="btnDefault" name="Save" type="button" title="Press RETURN to submit"
+      	onclick="submitWindow('Submit');"&gt;Submit&lt;/button&gt;
+	  &lt;button class="btnDefault" name="Edit" type="button" title="Click to Edit the list"
+	  	onclick="editList();"&gt;Edit List&lt;/button&gt;
+	  &lt;button class="btnCancel" name="Cancel" type="button" title="Press ESC to cancel"
+      	onclick="cancelWindow('Cancel');"&gt;Cancel&lt;/button&gt; &lt;/div&gt;
+
+ &lt;/div&gt;
+ &lt;/body&gt;
+&lt;/html&gt;
+</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>UseText</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>ActionColor</key>
+						<string>Magenta</string>
+						<key>Conditions</key>
+						<dict>
+							<key>ConditionList</key>
+							<array>
+								<dict>
+									<key>ConditionType</key>
+									<string>Variable</string>
+									<key>Variable</key>
+									<string>InstanceClickedItem</string>
+									<key>VariableConditionType</key>
+									<string>IsNotEmpty</string>
+									<key>VariableValue</key>
+									<string>value</string>
+								</dict>
+							</array>
+							<key>ConditionListMatch</key>
+							<string>All</string>
+						</dict>
+						<key>ElseActions</key>
+						<array>
+							<dict>
+								<key>Conditions</key>
+								<dict>
+									<key>ConditionList</key>
+									<array>
+										<dict>
+											<key>ConditionType</key>
+											<string>Variable</string>
+											<key>Variable</key>
+											<string>InstanceNewListItem</string>
+											<key>VariableConditionType</key>
+											<string>IsNotEmpty</string>
+											<key>VariableValue</key>
+											<string>value</string>
+										</dict>
+									</array>
+									<key>ConditionListMatch</key>
+									<string>All</string>
+								</dict>
+								<key>ElseActions</key>
+								<array>
+									<dict>
+										<key>ActionColor</key>
+										<string>Teal</string>
+										<key>Conditions</key>
+										<dict>
+											<key>ConditionList</key>
+											<array>
+												<dict>
+													<key>ConditionType</key>
+													<string>Variable</string>
+													<key>Variable</key>
+													<string>InstanceEditList</string>
+													<key>VariableConditionType</key>
+													<string>Is</string>
+													<key>VariableValue</key>
+													<string>1</string>
+												</dict>
+											</array>
+											<key>ConditionListMatch</key>
+											<string>All</string>
+										</dict>
+										<key>ElseActions</key>
+										<array/>
+										<key>MacroActionType</key>
+										<string>IfThenElse</string>
+										<key>ThenActions</key>
+										<array>
+											<dict>
+												<key>Floating</key>
+												<true/>
+												<key>MacroActionType</key>
+												<string>CustomPrompt</string>
+												<key>Resizable</key>
+												<true/>
+												<key>Text</key>
+												<string>&lt;html&gt;
+ &lt;head&gt;
+  &lt;meta charset=utf-8 /&gt;
+    &lt;title&gt;Insert Clicked Item&lt;/title&gt;
+	&lt;style&gt;
+		body{
+			background-color: whitesmoke;
+			font-family: "Ezra SIL";
+		}
+	    textarea {font-family: "Ezra SIL"; font-size: 16px; width: 100%;}
+	&lt;/style&gt;
+&lt;script&gt;
+	'use strict';
+	function KMInit() {
+        window.addEventListener("keydown", function (e) {
+            if (e.keyCode == 13 &amp;&amp; e.metaKey) { // "Return" key
+                window.KeyboardMaestro.Submit();
+            }
+        });
+	}
+	function KMDidShowWindow(){
+
+        // set window width and height
+        // Note: width is determined by the width set in the body field.
+        let width = document.querySelector('#wholepage').clientWidth - 75;
+		if (width &lt; 210) {width = 210;}; // set min width;
+
+        document.querySelector('#list').style.height = document.querySelector('#list').scrollHeight+'px';
+        let height = document.querySelector('#wholepage').clientHeight + 12;
+        // resize Window and move to center.
+        window.KeyboardMaestro.ResizeWindow(width + "," + height);
+
+	}
+
+	function submitWindow(event) {
+		window.KeyboardMaestro.Submit( event );
+		}
+	function cancelWindow(event) {
+		window.KeyboardMaestro.Cancel( event );
+		}
+
+&lt;/script&gt;
+
+ &lt;/head&gt;
+
+ &lt;body&gt;
+ &lt;div id="wholepage"&gt;
+
+    &lt;div&gt;&lt;textarea id="list" class="input" name="DNDtextList" autofocus&gt;&lt;/textarea&gt;&lt;/div&gt;
+
+      			&lt;!-- ========== BUTTONS ========= --&gt;
+    &lt;div class="buttonDiv"&gt;
+	  &lt;button class="btnDefault" name="Save" type="button" title="Press RETURN to submit"
+      	onclick="submitWindow('Submit');"&gt;Submit&lt;/button&gt;
+	  &lt;button class="btnCancel" name="Cancel" type="button" title="Press ESC to cancel"
+      	onclick="cancelWindow('Cancel');"&gt;Cancel&lt;/button&gt; &lt;/div&gt;
+
+ &lt;/div&gt;
+ &lt;/body&gt;
+&lt;/html&gt;
+</string>
+												<key>TimeOutAbortsMacro</key>
+												<true/>
+												<key>UseText</key>
+												<true/>
+											</dict>
+										</array>
+										<key>TimeOutAbortsMacro</key>
+										<true/>
+									</dict>
+								</array>
+								<key>MacroActionType</key>
+								<string>IfThenElse</string>
+								<key>ThenActions</key>
+								<array>
+									<dict>
+										<key>MacroActionType</key>
+										<string>SetVariableToText</string>
+										<key>Text</key>
+										<string>
+%InstanceNewListItem%</string>
+										<key>Variable</key>
+										<string>DNDtextList</string>
+										<key>Where</key>
+										<string>Append</string>
+									</dict>
+								</array>
+								<key>TimeOutAbortsMacro</key>
+								<true/>
+							</dict>
+						</array>
+						<key>MacroActionType</key>
+						<string>IfThenElse</string>
+						<key>ThenActions</key>
+						<array>
+							<dict>
+								<key>Action</key>
+								<string>ByPasting</string>
+								<key>MacroActionType</key>
+								<string>InsertText</string>
+								<key>Text</key>
+								<string>%InstanceClickedItem%</string>
+							</dict>
+						</array>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+					</dict>
+				</array>
+				<key>CreationDate</key>
+				<real>639078025.45144498</real>
+				<key>IsActive</key>
+				<false/>
+				<key>ModificationDate</key>
+				<real>639158883.64037395</real>
+				<key>Name</key>
+				<string>Custom HTML Prompt - Choose Item Text to Insert</string>
+				<key>Triggers</key>
+				<array/>
+				<key>UID</key>
+				<string>5FC389FA-164A-4BF7-8ABD-98B0E78437D5</string>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>T - Test Group</string>
+		<key>ToggleMacroUID</key>
+		<string>5C0BFA63-66B6-40E9-B4B1-CEAB325D0C73</string>
+		<key>UID</key>
+		<string>3EFDF5A4-7330-43B2-AE68-879A8DEFCCA3</string>
+	</dict>
+</array>
+</plist>
