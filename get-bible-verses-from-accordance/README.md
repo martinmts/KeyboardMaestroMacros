@@ -4,13 +4,13 @@
 
 ### Step 1. Download all files in the folder.
 
-1. The Keyboard Maestro macro group file (**Bible Study Macros.kmmacros**).
+1. The Keyboard Maestro macro group file (`Bible Study Macros.kmmacros`).
 
-2. The AppleScript file (**Martin Script Library**).
+2. The AppleScript file (`Martin Script Library`).
 
-3. The three Accordance user Bible files (in the **userbibles** folder).
+3. The three Accordance user Bible files (in the `userbibles` folder).
 
-4. The zipped HTML files (**html files.zip**).
+4. The zipped HTML files (`html files.zip`).
 
 ### Step 2. Installation
 
