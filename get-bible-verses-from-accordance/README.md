@@ -17,7 +17,7 @@
 1. Double-click to install the macros to Keyboard Maestro.
 
 2. Put the AppleScript file to the `~/Library/Scripts/` folder.
-    * Note: the AppleScript also deals with Chinese Bible references. If you are not a Chinese user, you may not need some portion of it.
+    * Note: the applescript also deals with Chinese Bible references. If you are not a Chinese user, you may not need some portion of it.
 
 3. Put the three user Bible files to the `~/Library/Application Support/Accordance/Modules/Texts` folder (double-click each should also install them).
 
