@@ -30,6 +30,9 @@
 
 ## Screenshots
 
+### All macros:
+![](https://i.imgur.com/vjolpuf.png)
+
 #### Macro no. 2:
 
 ![](https://i.imgur.com/jQoK1Vt.png)
