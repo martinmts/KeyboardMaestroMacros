@@ -1,0 +1,120 @@
+<html>
+
+<head>
+    <meta charset=utf-8 />
+    <title>Get Verses from Accordance</title>
+    <link href="css/accbible.css" rel="stylesheet">
+</head>
+
+<body data-kmwindowid="CustomKMMacroList" id="body" data-kmwindow="600,300,650,290">
+<div id="wholepage">
+    <table style="padding: 10px" id="table">
+        <colgroup>
+            <col style="width: 120px;">
+            <col>
+            <col>
+        </colgroup>
+        <tbody>
+            <tr>
+                <td class="caption">Reference:</td>
+                <td colspan="2"><input type="text" style="font-size: 18px" name="BibleRef" id="bbref" autofocus="" />
+                </td>
+            </tr>
+            <tr>
+                <td class="caption">Versions:</td>
+                <td colspan="2">
+                    <div id="listTable">
+                        <div>
+                            <div><input type="checkbox" name="LocalVersions" value="CUS°" />&nbsp;CUS°&emsp;</div>
+                            <div><input type="checkbox" name="LocalVersions" value="CNS" />&nbsp;CNS&emsp;</div>
+                            <div><input type="checkbox" name="LocalVersions" value="LZZ" />&nbsp;LZZ&emsp;</div>
+                            <div><input type="checkbox" name="LocalVersions" value="ESVS" />&nbsp;ESVS&emsp;</div>
+                            <div><input type="checkbox" name="LocalVersions" value="NIV11-Gk" />&nbsp;NIV11-Gk&emsp;</div>
+                        </div>
+                        <div>
+                            <div><input type="checkbox" name="LocalVersions" value="NAS95S" />&nbsp;NAS95S&emsp;</div>
+                            <div><input type="checkbox" name="LocalVersions" value="YNG" />&nbsp;YNG&emsp;</div>
+                            <div><input type="checkbox" name="LocalVersions" value="NA28-T" />&nbsp;NA28-T&emsp;</div>
+                            <div><input type="checkbox" name="LocalVersions" value="HMT-W4" />&nbsp;HMT-W4&emsp;</div>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td class="caption">Romove:</td>
+                <td>
+                    <input type="checkbox" name="LocalRmContentRef" />&nbsp;Inline Book & Chapter Number&emsp;
+                </td>
+                <td>
+                    <input type="checkbox" name="LocalRmCitationRef" />&nbsp;Citation Reference
+                </td>
+            </tr>
+            <tr>
+                <td class="caption">Romove (Heb):</td>
+                <td colspan="2">
+                    <input type="radio" name="LocalRemove" value="Nothing" />&nbsp;Nothing&emsp;
+                    <input type="radio" id="RemVowels" name="LocalRemove"
+                        value="Cantillations" />&nbsp;Cantillations&emsp;
+                    <input type="radio" name="LocalRemove" value="VowelsAndCantillations" />&nbsp;Vowels and
+                    Cantillations
+                </td>
+            <tr>
+                <td class="caption" rowspan="2">Output Format/Form:</td>
+                <td><input type="radio" name="LocalOutput" value="MakePlain" />&nbsp;Make Plaintext</td>
+                <td><input type="radio" name="LocalOutput" value="SBL12px" />&nbsp;SBL Hebrew 12px</td>
+            </tr>
+            <tr class="formatRow">
+                <td><input type="radio" name="LocalOutput" value="DisplayTextLarge" />&nbsp;Display Large Text in Window
+                </td>
+                <td><input type="radio" name="LocalOutput" value="TNR12px" />&nbsp;Times New R 12px</td>
+            </tr>
+        </tbody>
+    </table>
+    <!-- ========== BUTTONS ========= -->
+    <div class="buttonDiv">
+        <button class="btnCancel" name="Cancel" type="button" title="Press ESC to cancel"
+            onclick="window.KeyboardMaestro.Cancel();">Cancel</button>
+        <button class="btnDefault" name="Save" type="submit" title="Press RETURN to submit"
+            onclick="versionList();">Submit</button>
+    </div>
+
+</div>
+</body>
+
+
+<script>
+    function KMInit() {
+        window.addEventListener("keydown", function (e) {
+            if (e.keyCode == 13) {
+                versionList();
+            }
+        });
+    }
+
+    function KMDidShowWindow() {
+        // set window width and height
+        // Note: width is determined by the width set in the body field.
+        let width = document.getElementById('wholepage').clientWidth;
+        let height = document.getElementById('wholepage').clientHeight + 20;
+
+        // resize Window and move to center.
+        window.KeyboardMaestro.ResizeWindow(width + "," + height);
+
+        document.getElementById("bbref").select();
+        //document.getElementById("bbref").value = width + "," + height;
+    }
+
+    function versionList() {
+        let vListAll = document.getElementsByName("LocalVersions");
+        var vListChecked = [];
+        vListAll.forEach((i) => {
+            if (i.checked) {
+                vListChecked.push(i.value);
+            }
+        })
+        window.KeyboardMaestro.SetVariable('InstanceBibleVersions', vListChecked.toString());
+        window.KeyboardMaestro.Submit();
+    }
+</script>
+
+</html>
