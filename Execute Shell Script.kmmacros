@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>DisplayKind</key>
+		<string>Window</string>
+		<key>HonourFailureSettings</key>
+		<true/>
+		<key>IncludeStdErr</key>
+		<false/>
+		<key>IsActive</key>
+		<false/>
+		<key>MacroActionType</key>
+		<string>ExecuteShellScript</string>
+		<key>Path</key>
+		<string></string>
+		<key>Source</key>
+		<string>Nothing</string>
+		<key>Text</key>
+		<string>cd $HOME"$KMVAR_Local__Dir"
+git add \'"$KMVAR_Local__File_Name"\'
+git commit -m \'"$KMVAR_Local__Commit_Msg"\'</string>
+		<key>TimeOutAbortsMacro</key>
+		<true/>
+		<key>TrimResults</key>
+		<true/>
+		<key>TrimResultsNew</key>
+		<true/>
+		<key>UseText</key>
+		<true/>
+	</dict>
+</array>
+</plist>
