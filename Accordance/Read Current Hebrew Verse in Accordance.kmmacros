@@ -22,8 +22,8 @@
 						<key>StyledText</key>
 						<data>
 						cnRmZAAAAAADAAAAAgAAAAcAAABU
-						WFQucnRmAQAAAC4LCAAAKwAAAAEA
-						AAADCAAAe1xydGYxXGFuc2lcYW5z
+						WFQucnRmAQAAAC6eCAAAKwAAAAEA
+						AACWCAAAe1xydGYxXGFuc2lcYW5z
 						aWNwZzEyNTJcY29jb2FydGYyNTgw
 						Clxjb2NvYXRleHRzY2FsaW5nMFxj
 						b2NvYXBsYXRmb3JtMHtcZm9udHRi
@@ -55,77 +55,98 @@
 						ClxmMVxiMCAgOlwnYTAJClxmMiAy
 						MDIxLzEwLzA3IDEzOjI4ClxmMyBc
 						CgpcZjBcYiBNb2RpZmllZApcZjFc
-						YjAgIDogClxmMiBcJ2EwClxmMyBc
-						CgpcZjBcYiBWZXJzaW9uClxmMVxi
-						MCAgOiAJClxmMiAxLjAKXGYzIFwK
-						XAoKXGYwXGIgUHVycG9zZQpcZjFc
-						YjAgOgpcZjMgXApccGFyZFxwYXJk
-						ZWZ0YWI3MjBccGFydGlnaHRlbmZh
-						Y3RvcjAKClxmNCBcY2YyIFwnODFc
-						JzQ1ClxmMiBSZWFkIHRoZSB2ZXJz
-						ZSBzaG93biBpbiB0aGUgIkdvIFRv
-						IEJveCIgb2YgQWNjb3JkYW5jZSBC
-						aWJsZSBTb2Z0d2FyZS5cClxwYXJk
-						XHBhcmRlZnRhYjcyMFxwYXJ0aWdo
-						dGVuZmFjdG9yMAoKXGYzIFxjZjIg
-						XAoKXGYwXGIgUmVxdWlyZW1lbnRz
-						ClxmMVxiMCA6ClxmMyAgXAoxLiBZ
-						b3UgbXVzdCBoYXZlIHB1cmNoYXNl
-						ZCBhbmQgZG93bmxvYWRlZCB7XGZp
-						ZWxke1wqXGZsZGluc3R7SFlQRVJM
-						SU5LICJodHRwczovL2FjY29yZGFu
-						Y2ViaWJsZS5jb20vcHJvZHVjdC9o
-						ZWJyZXctb2xkLXRlc3RhbWVudC1h
-						dWRpby8ifX17XGZsZHJzbHQgClxm
-						NSBcY2YzIFx1bCBcdWxjMyBIZWJy
-						ZXcgT2xkIFRlc3RhbWVudCBBdWRp
-						byAtIEFjY29yZGFuY2V9fS5cCjIu
-						IApcZjZcYiBFbmFibGUKXGYzXGIw
-						ICBhbmQgClxmNlxiIHRyeQpcZjNc
-						YjAgIHRoZSAiU2V0IERpY3Rpb25h
-						cnkgLi4uIiBhY3Rpb24gKGluIApc
-						ZjZcYiBPcmFuZ2UKXGYzXGIwICkg
-						YmVsb3cgb25jZSAodGhlbiB5b3Ug
-						bWF5IGRpc2FibGUgaXQpLlwKMy4g
-						VGhlIFVJIGxhbmd1YWdlIG11c3Qg
-						YmUgClxmNlxiIEVuZ2xpc2gKXGYz
-						XGIwIC4gT3RoZXJ3aXNlLCB5b3Ug
-						bmVlZCB0byBlZGl0IHRoZSBtZW51
-						LWNsaWNrIGFjdGlvbiAoaW4gClxm
-						NlxiIEdyZWVuClxmM1xiMCAgY29s
-						b3IpLlwKNC4gVGhlIG1vZHVsZXMg
-						YXJlIHNhdmVkIHRvIHRoZSBkZWZh
-						dWx0IGZvbGRlci4gT3RoZXJ3aXNl
-						LCB5b3Ugd2lsbCBoYXZlIHRvIGVk
-						aXQgdGhlIGFjdGlvbnMgKGluIFll
-						bGxvdyBjb2xvcikuXAo1LiBUaGUg
-						dGFiIChpbiBBY2NvcmRhbmNlKSBj
-						b250YWluaW5nIHRoZSAiR28gVG8g
-						Qm94IiBtdXN0IGJlIHRoZSBhY3Rp
-						dmUgdGFiLlwKXApUaGF0J3MgaXQh
-						IFNldC9DaGFuZ2UgYSBob3RrZXkg
-						Zm9yIHRoZSBtYWNybyBhbmQgeW91
-						IGFyZSBnb29kIHRvIGdvIVwKXAoK
-						XGYwXGIgQ29tbWVudApcZjFcYjAg
-						OgpcZjMgXApccGFyZFxwYXJkZWZ0
-						YWI3MjBccGFydGlnaHRlbmZhY3Rv
-						cjAKClxmNCBcY2YyIFwnODFcJzQ1
-						ClxmMiBCZSBhd2FyZSB0aGF0IHRo
-						ZSBhdWRpbyBCaWJsZSBtb2R1bGUg
-						cmVhZHMgSGVicmV3IGZvciB0aGUg
-						QXJhbWFpYyB0ZXh0cyBpbiB0aGUg
-						SGVicmV3IEJpYmxlLlwKClxmNCBc
-						JzgxXCc0NQpcZjIgSSBkb24ndCBo
-						YXZlIGEgZ29vZCB3YXkgdG8gZ2V0
-						IHRoZSByZWZlcmVuY2UgYXMgc2hv
+						YjAgIDogClxmMiBcJ2EwMjAyMS8x
+						MC8wNyAxNDozNgpcZjMgXAoKXGYw
+						XGIgVmVyc2lvbgpcZjFcYjAgIDog
+						CQpcZjIgMS4xClxmMyBcClwKClxm
+						MFxiIFB1cnBvc2UKXGYxXGIwIDoK
+						XGYzIFwKXHBhcmRccGFyZGVmdGFi
+						NzIwXHBhcnRpZ2h0ZW5mYWN0b3Iw
+						CgpcZjQgXGNmMiBcJzgxXCc0NQpc
+						ZjIgUmVhZCB0aGUgdmVyc2Ugc2hv
 						d24gaW4gdGhlICJHbyBUbyBCb3gi
-						LiBJZiB5b3Uga25vdyBhIGJldHRl
-						ciB3YXksIGxldCBtZSBrbm93IX0B
+						IG9mIEFjY29yZGFuY2UgQmlibGUg
+						U29mdHdhcmUuXApccGFyZFxwYXJk
+						ZWZ0YWI3MjBccGFydGlnaHRlbmZh
+						Y3RvcjAKClxmMyBcY2YyIFwKClxm
+						MFxiIFJlcXVpcmVtZW50cwpcZjFc
+						YjAgOgpcZjMgIFwKMS4gWW91IG11
+						c3QgaGF2ZSBwdXJjaGFzZWQgYW5k
+						IGRvd25sb2FkZWQge1xmaWVsZHtc
+						KlxmbGRpbnN0e0hZUEVSTElOSyAi
+						aHR0cHM6Ly9hY2NvcmRhbmNlYmli
+						bGUuY29tL3Byb2R1Y3QvaGVicmV3
+						LW9sZC10ZXN0YW1lbnQtYXVkaW8v
+						In19e1xmbGRyc2x0IApcZjUgXGNm
+						MyBcdWwgXHVsYzMgSGVicmV3IE9s
+						ZCBUZXN0YW1lbnQgQXVkaW8gLSBB
+						Y2NvcmRhbmNlfX0uXAoyLiAKXGY2
+						XGIgRW5hYmxlClxmM1xiMCAgYW5k
+						IApcZjZcYiB0cnkKXGYzXGIwICB0
+						aGUgIlNldCBEaWN0aW9uYXJ5IC4u
+						LiIgYWN0aW9uIChpbiAKXGY2XGIg
+						T3JhbmdlClxmM1xiMCApIGJlbG93
+						IG9uY2UgKHRoZW4geW91IG1heSBk
+						aXNhYmxlIGl0KS5cCjMuIFRoZSBV
+						SSBsYW5ndWFnZSBtdXN0IGJlIApc
+						ZjZcYiBFbmdsaXNoClxmM1xiMCAu
+						IE90aGVyd2lzZSwgeW91IG5lZWQg
+						dG8gZWRpdCB0aGUgbWVudS1jbGlj
+						ayBhY3Rpb24gKGluIApcZjZcYiBH
+						cmVlbgpcZjNcYjAgIGNvbG9yKS5c
+						CjQuIFRoZSBtb2R1bGVzIGFyZSBz
+						YXZlZCB0byB0aGUgZGVmYXVsdCBm
+						b2xkZXIuIE90aGVyd2lzZSwgeW91
+						IHdpbGwgaGF2ZSB0byBlZGl0IHRo
+						ZSBhY3Rpb25zIChpbiBZZWxsb3cg
+						Y29sb3IpLlwKNS4gVGhlIHRhYiAo
+						aW4gQWNjb3JkYW5jZSkgY29udGFp
+						bmluZyB0aGUgIkdvIFRvIEJveCIg
+						bXVzdCBiZSB0aGUgYWN0aXZlIHRh
+						Yi5cClwKVGhhdCdzIGl0ISBTZXQv
+						Q2hhbmdlIGEgaG90a2V5IGZvciB0
+						aGUgbWFjcm8gYW5kIHlvdSBhcmUg
+						Z29vZCB0byBnbyFcClwKClxmMFxi
+						IENvbW1lbnQKXGYxXGIwIDoKXGYz
+						IFwKXHBhcmRccGFyZGVmdGFiNzIw
+						XHBhcnRpZ2h0ZW5mYWN0b3IwCgpc
+						ZjQgXGNmMiBcJzgxXCc0NQpcZjIg
+						QmUgYXdhcmUgdGhhdCB0aGUgYXVk
+						aW8gQmlibGUgbW9kdWxlIHJlYWRz
+						IEhlYnJldyBmb3IgdGhlIEFyYW1h
+						aWMgdGV4dHMgaW4gdGhlIEhlYnJl
+						dyBCaWJsZS5cCgpcZjQgXCc4MVwn
+						NDUKXGYyIEkgZG9uJ3QgaGF2ZSBh
+						IGdvb2Qgd2F5IHRvIGdldCB0aGUg
+						cmVmZXJlbmNlIGFzIHNob3duIGlu
+						IHRoZSAiR28gVG8gQm94Ii4gSWYg
+						eW91IGtub3cgYSBiZXR0ZXIgd2F5
+						LCBsZXQgbWUga25vdyFcClwKTm90
+						ZXM6XAp2MS4xIGFkZGVkIHNlbWFw
+						aG9yZSAocHJldmVudCByZWFkaW5n
+						IG11bHRpcGxlIHZlcnNlIGNvbmN1
+						cnJlbnRseSkgYW5kIGRlbGV0ZSBj
+						dXJyZW50IGNsaXBib2FyZCAodGhl
+						IHJlZmVyZW5jZSBjb3BpZWQpLn0B
 						AAAAIwAAAAEAAAAHAAAAVFhULnJ0
-						ZhAAAAB3OF9htgEAAAAAAAAAAAAA
+						ZhAAAACEPl9htgEAAAAAAAAAAAAA
 						</data>
 						<key>Title</key>
 						<string>Note</string>
+					</dict>
+					<dict>
+						<key>MacroActionType</key>
+						<string>Semaphore</string>
+						<key>NotifyOnTimeOut</key>
+						<false/>
+						<key>SemaphoreAction</key>
+						<string>Lock</string>
+						<key>SemaphoreName</key>
+						<string>Read Current Hebrew Verse in Accordance</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>TimeOutPeriod</key>
+						<real>1</real>
 					</dict>
 					<dict>
 						<key>ActionColor</key>
@@ -426,11 +447,17 @@
 						<key>UseText</key>
 						<true/>
 					</dict>
+					<dict>
+						<key>MacroActionType</key>
+						<string>DeletePastClipboard</string>
+						<key>PastExpression</key>
+						<string>0</string>
+					</dict>
 				</array>
 				<key>CreationDate</key>
 				<real>655314548.23199403</real>
 				<key>ModificationDate</key>
-				<real>655323297.90735197</real>
+				<real>655324675.25270998</real>
 				<key>Name</key>
 				<string>Read Current Hebrew Verse in Accordance</string>
 				<key>Triggers</key>
