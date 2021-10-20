@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>CreationDate</key>
+		<real>530171926.81920499</real>
+		<key>CustomIconData</key>
+		<string>KMEP-GenericApplication-/Applications/Accordance.app</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>Semaphore</string>
+						<key>NotifyOnTimeOut</key>
+						<false/>
+						<key>SemaphoreAction</key>
+						<string>Lock</string>
+						<key>SemaphoreName</key>
+						<string>Read Hebrew Verse in Accordance</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>TimeOutPeriod</key>
+						<real>1</real>
+					</dict>
+					<dict>
+						<key>KeyCode</key>
+						<integer>125</integer>
+						<key>MacroActionType</key>
+						<string>SimulateKeystroke</string>
+						<key>Modifiers</key>
+						<integer>256</integer>
+						<key>ReleaseAll</key>
+						<false/>
+						<key>TargetApplication</key>
+						<dict/>
+						<key>TargetingType</key>
+						<string>Front</string>
+					</dict>
+					<dict>
+						<key>Asynchronously</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>ExecuteMacro</string>
+						<key>MacroUID</key>
+						<string>FC38F1FD-9842-4BA1-83FE-4818331B70AA</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>UseParameter</key>
+						<false/>
+					</dict>
+				</array>
+				<key>CreationDate</key>
+				<real>655487793.92939198</real>
+				<key>CustomIconData</key>
+				<string>KMEC=Circle=KMCOLOR:255,255,255,0=􀌊=112=2=4=0=KMCOLOR:253,128,8,255</string>
+				<key>ModificationDate</key>
+				<real>656443477.14371097</real>
+				<key>Name</key>
+				<string>01)Read Next Verse</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>FireType</key>
+						<string>Pressed</string>
+						<key>KeyCode</key>
+						<integer>122</integer>
+						<key>MacroTriggerType</key>
+						<string>HotKey</string>
+						<key>Modifiers</key>
+						<integer>0</integer>
+					</dict>
+				</array>
+				<key>UID</key>
+				<string>4B48B1A7-A5A0-4805-A9C1-A2DFC73108E8</string>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>Accordance</string>
+		<key>Targeting</key>
+		<dict>
+			<key>Targeting</key>
+			<string>Included</string>
+			<key>TargetingApps</key>
+			<array>
+				<dict>
+					<key>BundleIdentifier</key>
+					<string>com.OakTree.Accordance</string>
+					<key>Name</key>
+					<string>Accordance</string>
+					<key>NewFile</key>
+					<string>/Applications/Accordance.app</string>
+				</dict>
+			</array>
+		</dict>
+		<key>ToggleMacroUID</key>
+		<string>C58FF543-3529-4E13-A00E-36E3942CB7C1</string>
+		<key>UID</key>
+		<string>5CDEEA80-ADC6-4DFE-A8C2-9B425F9A067A</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>CreationDate</key>
+		<real>530171926.81920499</real>
+		<key>CustomIconData</key>
+		<string>KMEP-GenericApplication-/Applications/Accordance.app</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>ActionColor</key>
+						<string>Purple</string>
+						<key>MacroActionType</key>
+						<string>Comment</string>
+						<key>StyledText</key>
+						<data>
+						cnRmZAAAAAADAAAAAgAAAAcAAABU
+						WFQucnRmAQAAAC4lCAAAKwAAAAEA
+						AAAdCAAAe1xydGYxXGFuc2lcYW5z
+						aWNwZzEyNTJcY29jb2FydGYyNTgw
+						Clxjb2NvYXRleHRzY2FsaW5nMFxj
+						b2NvYXBsYXRmb3JtMHtcZm9udHRi
+						bFxmMFxmc3dpc3NcZmNoYXJzZXQw
+						IEhlbHZldGljYS1Cb2xkO1xmMVxm
+						c3dpc3NcZmNoYXJzZXQwIEhlbHZl
+						dGljYTtcZjJcZnJvbWFuXGZjaGFy
+						c2V0MCBUaW1lc05ld1JvbWFuUFNN
+						VDsKXGYzXGZyb21hblxmY2hhcnNl
+						dDAgVGltZXMtUm9tYW47XGY0XGZu
+						aWxcZmNoYXJzZXQxMjggSGlyYU1p
+						blByb04tVzM7XGY1XGZzd2lzc1xm
+						Y2hhcnNldDAgQXJpYWxNVDsKXGY2
+						XGZyb21hblxmY2hhcnNldDAgVGlt
+						ZXMtQm9sZDt9CntcY29sb3J0Ymw7
+						XHJlZDI1NVxncmVlbjI1NVxibHVl
+						MjU1O1xyZWQwXGdyZWVuMFxibHVl
+						MDtccmVkMFxncmVlbjBcYmx1ZTIz
+						Mzt9CntcKlxleHBhbmRlZGNvbG9y
+						dGJsOztcY3NzcmdiXGMwXGMwXGMw
+						O1xjc3NyZ2JcYzBcYzBcYzkzMzMz
+						O30KXGRlZnRhYjcyMApccGFyZFxw
+						YXJkZWZ0YWI3MjBccGFydGlnaHRl
+						bmZhY3RvcjAKClxmMFxiXGZzMjgg
+						XGNmMiBcZXhwbmQwXGV4cG5kdHcw
+						XGtlcm5pbmcwCkJ5ClxmMVxiMCAg
+						OiAJCQpcZjIgTWFydGluIFpoYW5n
+						ClxmMyBcCgpcZjBcYiBDcmVhdGVk
+						ClxmMVxiMCAgOlwnYTAJClxmMiAy
+						MDIxLzEwLzA3IDEzOjI4ClxmMyBc
+						CgpcZjBcYiBNb2RpZmllZApcZjFc
+						YjAgIDogClxmMiBcJ2EwMjAyMS8x
+						MC8xNCAxMjoyNwpcZjMgXAoKXGYw
+						XGIgVmVyc2lvbgpcZjFcYjAgIDog
+						CQpcZjIgMS4yClxmMyBcClwKClxm
+						MFxiIFB1cnBvc2UKXGYxXGIwIDoK
+						XGYzIFwKXHBhcmRccGFyZGVmdGFi
+						NzIwXHBhcnRpZ2h0ZW5mYWN0b3Iw
+						CgpcZjQgXGNmMiBcJzgxXCc0NQpc
+						ZjIgUmVhZCB0aGUgdmVyc2Ugc2hv
+						d24gaW4gdGhlICJHbyBUbyBCb3gi
+						IG9mIEFjY29yZGFuY2UgQmlibGUg
+						U29mdHdhcmUuXApccGFyZFxwYXJk
+						ZWZ0YWI3MjBccGFydGlnaHRlbmZh
+						Y3RvcjAKClxmMyBcY2YyIFwKClxm
+						MFxiIFJlcXVpcmVtZW50cwpcZjFc
+						YjAgOgpcZjMgIFwKMS4gWW91IG11
+						c3QgaGF2ZSBwdXJjaGFzZWQgYW5k
+						IGRvd25sb2FkZWQge1xmaWVsZHtc
+						KlxmbGRpbnN0e0hZUEVSTElOSyAi
+						aHR0cHM6Ly9hY2NvcmRhbmNlYmli
+						bGUuY29tL3Byb2R1Y3QvaGVicmV3
+						LW9sZC10ZXN0YW1lbnQtYXVkaW8v
+						In19e1xmbGRyc2x0IApcZjUgXGNm
+						MyBcdWwgXHVsYzMgSGVicmV3IE9s
+						ZCBUZXN0YW1lbnQgQXVkaW8gLSBB
+						Y2NvcmRhbmNlfX0uXAoyLiBUaGUg
+						VUkgbGFuZ3VhZ2UgbXVzdCBiZSAK
+						XGY2XGIgRW5nbGlzaApcZjNcYjAg
+						LiBPdGhlcndpc2UsIHlvdSBuZWVk
+						IHRvIGVkaXQgdGhlIG1lbnUtY2xp
+						Y2sgYWN0aW9uIChpbiAKXGY2XGIg
+						R3JlZW4KXGYzXGIwICBjb2xvciku
+						XAozLiBUaGUgdGFiIChpbiBBY2Nv
+						cmRhbmNlKSBjb250YWluaW5nIHRo
+						ZSAiR28gVG8gQm94IiBtdXN0IGJl
+						IHRoZSBhY3RpdmUgdGFiLlwKXApU
+						aGF0J3MgaXQhIFNldC9DaGFuZ2Ug
+						YSBob3RrZXkgZm9yIHRoZSBtYWNy
+						byBhbmQgeW91IGFyZSBnb29kIHRv
+						IGdvIVwKXAoKXGYwXGIgQ29tbWVu
+						dApcZjFcYjAgOgpcZjMgXApccGFy
+						ZFxwYXJkZWZ0YWI3MjBccGFydGln
+						aHRlbmZhY3RvcjAKClxmNCBcY2Yy
+						IFwnODFcJzQ1ClxmMiBCZSBhd2Fy
+						ZSB0aGF0IHRoZSBhdWRpbyBCaWJs
+						ZSBtb2R1bGUgcmVhZHMgSGVicmV3
+						IGZvciB0aGUgQXJhbWFpYyB0ZXh0
+						cyBpbiB0aGUgSGVicmV3IEJpYmxl
+						LlwKClxmNCBcJzgxXCc0NQpcZjIg
+						SSBkb24ndCBoYXZlIGEgZ29vZCB3
+						YXkgdG8gZ2V0IHRoZSByZWZlcmVu
+						Y2UgYXMgc2hvd24gaW4gdGhlICJH
+						byBUbyBCb3giLiBJZiB5b3Uga25v
+						dyBhIGJldHRlciB3YXksIGxldCBt
+						ZSBrbm93IVwKXApOb3RlczpcCnYx
+						LjEgYWRkZWQgc2VtYXBob3JlIChw
+						cmV2ZW50IHJlYWRpbmcgbXVsdGlw
+						bGUgdmVyc2UgY29uY3VycmVudGx5
+						KSBhbmQgZGVsZXRlIGN1cnJlbnQg
+						Y2xpcGJvYXJkICh0aGUgcmVmZXJl
+						bmNlIGNvcGllZCkuXAp2MS4yIC0g
+						dXNlIGdsb2JhbCB2YXJpYWJsZSBm
+						b3IgdGhlIGZpbGUgcGF0aCBzbyB0
+						aGF0IHdlIG1heSB1c2UgaXQgdG8g
+						cmVhZCB0aGUgdmVyc2UgYWdhaW4u
+						XAogICAgICAgIC0gdXNlIEpYQSB0
+						byBnZXQgdGhlIG1wMyBmaWxlIHBh
+						dGgufQEAAAAjAAAAAQAAAAcAAABU
+						WFQucnRmEAAAADVbaGG2AQAAAAAA
+						AAAAAAA=
+						</data>
+						<key>Title</key>
+						<string>Note</string>
+					</dict>
+					<dict>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>Semaphore</string>
+						<key>NotifyOnTimeOut</key>
+						<false/>
+						<key>SemaphoreAction</key>
+						<string>Lock</string>
+						<key>SemaphoreName</key>
+						<string>Read Hebrew Verse in Accordance</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>TimeOutPeriod</key>
+						<real>1</real>
+					</dict>
+					<dict>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>JustDisplay</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>SetClipboardToText</string>
+						<key>Text</key>
+						<string></string>
+					</dict>
+					<dict>
+						<key>Actions</key>
+						<array>
+							<dict>
+								<key>IsDisclosed</key>
+								<false/>
+								<key>KeyCode</key>
+								<integer>48</integer>
+								<key>MacroActionType</key>
+								<string>SimulateKeystroke</string>
+								<key>Modifiers</key>
+								<integer>0</integer>
+								<key>ReleaseAll</key>
+								<false/>
+								<key>TargetApplication</key>
+								<dict/>
+								<key>TargetingType</key>
+								<string>Front</string>
+							</dict>
+							<dict>
+								<key>IsDisclosed</key>
+								<false/>
+								<key>MacroActionType</key>
+								<string>Pause</string>
+								<key>Time</key>
+								<string>0.2</string>
+								<key>TimeOutAbortsMacro</key>
+								<true/>
+							</dict>
+							<dict>
+								<key>ActionColor</key>
+								<string>Green</string>
+								<key>MacroActionType</key>
+								<string>SelectMenuItem</string>
+								<key>Menu</key>
+								<array>
+									<string>Edit</string>
+									<string>Copy</string>
+								</array>
+								<key>NotifyOnFailure</key>
+								<false/>
+								<key>StopOnFailure</key>
+								<false/>
+								<key>TargetApplication</key>
+								<dict>
+									<key>BundleIdentifier</key>
+									<string>com.OakTree.Accordance</string>
+									<key>Name</key>
+									<string>Accordance</string>
+									<key>NewFile</key>
+									<string>/Applications/Accordance.app</string>
+								</dict>
+								<key>TargetingType</key>
+								<string>Specific</string>
+							</dict>
+						</array>
+						<key>Conditions</key>
+						<dict>
+							<key>ConditionList</key>
+							<array>
+								<dict>
+									<key>ClipboardConditionType</key>
+									<string>DoesNotMatch</string>
+									<key>ClipboardText</key>
+									<string>^(1|2)? ?\w{2,4} \d+:\d+$</string>
+									<key>ConditionType</key>
+									<string>Clipboard</string>
+								</dict>
+							</array>
+							<key>ConditionListMatch</key>
+							<string>All</string>
+						</dict>
+						<key>MacroActionType</key>
+						<string>While</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>TimeOutPeriod</key>
+						<real>3</real>
+					</dict>
+					<dict>
+						<key>DisplayKind</key>
+						<string>Variable</string>
+						<key>HonourFailureSettings</key>
+						<true/>
+						<key>IncludeStdErr</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>ExecuteJavaScriptForAutomation</string>
+						<key>Path</key>
+						<string></string>
+						<key>Text</key>
+						<string>(() =&gt; {
+    "use strict";
+
+    ObjC.import("AppKit");
+
+    // Ver 0.04 by ComplexPoint @ KM Forum
+
+    // Extended to cover book names which include spaces:
+    // [1, 2] &lt;&gt; " " &lt;&gt; {Sam, Kgs, Chr}
+
+    // main :: IO ()
+    // eslint-disable-next-line max-lines-per-function
+    const main = () =&gt; {
+        const
+            toolPath = [
+                "/Library/Application Support/Accordance",
+                "/Modules/Tools/Hebrew Audio-OT Verses.atool",
+                "/Resources/"
+            ].join(""),
+            userPath = filePath(`~${toolPath}`),
+            fullToolPath = doesDirectoryExist(toolPath) ? (
+                toolPath
+            ) : `${userPath}/`;
+
+        return either(
+            alert("Audio for Hebrew Bible verse")
+        )(
+            mp3Path =&gt; mp3Path
+        )(
+            bindLR(
+                clipTextLR()
+            )(accRef =&gt; {
+                const
+                    ws = words(accRef),
+                    bcv = first(
+                        // Most books end with "." – not Job
+                        x =&gt; x.endsWith(".") ? (
+                            x.slice(0, -1)
+                        ) : x
+                    )([
+                        init(ws).join(" "),
+                        last(ws)
+                    ]),
+                    bookTag = dictBook[bcv[0]];
+
+                return Boolean(bookTag) ? (() =&gt; {
+                    const
+                        cv = bcv[1].split(":"),
+                        chapter = cv[0].padStart(3, "0"),
+                        verse = cv[1].padStart(2, "0");
+
+                    return Right(
+                        `${fullToolPath}${bookTag}` + (
+                            `${chapter}-${verse}.mp3`
+                        )
+                    );
+                })() : Left(
+                    `${bcv[0]} :: book not found in Hebrew audio dictionary.`
+                );
+            })
+        );
+    };
+
+
+    // ------------------- ACCORDANCE --------------------
+    const dictBook = {
+        "Gen": "A01.GEN.",
+        "Exod": "A02.EXO.",
+        "Lev": "A03.LEV.",
+        "Num": "A04.NUM.",
+        "Deut": "A05.DEU.",
+        "Josh": "A06.JOS.",
+        "Judg": "A07.JDG.",
+        "1 Sam": "A08.1SA.",
+        "2 Sam": "A09.2SA.",
+        "1 Kgs": "A10.1KI.",
+        "2 Kgs": "A11.2KI.",
+        "Isa": "A12.ISA.",
+        "Jer": "A13.JER.",
+        "Ezek": "A14.EZE.",
+        "Hos": "A15.HOS.",
+        "Joel": "A16.JOE.",
+        "Amos": "A17.AMO.",
+        "Obad": "A18.OBA.",
+        "Jonah": "A19.JON.",
+        "Mic": "A20.MIC.",
+        "Nah": "A21.NAH.",
+        "Hab": "A22.HAB.",
+        "Zeph": "A23.ZEP.",
+        "Hag": "A24.HAG.",
+        "Zech": "A25.ZEC.",
+        "Mal": "A26.MAL.",
+        "Ps": "A27.PSM.",
+        "Prov": "A28.PRO.",
+        "Job": "A29.JOB.",
+        "Song": "A30.SOS.",
+        "Ruth": "A31.RUT.",
+        "Lam": "A32.LAM.",
+        "Eccl": "A33.ECC.",
+        "Esth": "A34.EST.",
+        "Dan": "A35.DAN.",
+        "Ezra": "A36.EZR.",
+        "Neh": "A37.NEH.",
+        "1 Chr": "A38.1CH.",
+        "2 Chr": "A39.2CH."
+    };
+
+    // ----------------------- JXA -----------------------
+
+    // alert :: String =&gt; String -&gt; IO String
+    const alert = title =&gt;
+        s =&gt; {
+            const sa = Object.assign(
+                Application("System Events"), {
+                    includeStandardAdditions: true
+                });
+
+            return (
+                sa.activate(),
+                sa.displayDialog(s, {
+                    withTitle: title,
+                    buttons: ["OK"],
+                    defaultButton: "OK"
+                }),
+                s
+            );
+        };
+
+    // clipTextLR :: () -&gt; Either String String
+    const clipTextLR = () =&gt; (
+        v =&gt; Boolean(v) &amp;&amp; 0 &lt; v.length ? (
+            Right(v)
+        ) : Left("No utf8-plain-text found in clipboard.")
+    )(
+        ObjC.unwrap($.NSPasteboard.generalPasteboard
+            .stringForType($.NSPasteboardTypeString))
+    );
+
+
+    // doesDirectoryExist :: FilePath -&gt; IO Bool
+    const doesDirectoryExist = fp =&gt; {
+        const ref = Ref();
+
+        return $.NSFileManager.defaultManager
+            .fileExistsAtPathIsDirectory(
+                $(fp)
+                .stringByStandardizingPath, ref
+            ) &amp;&amp; ref[0];
+    };
+
+    // filePath :: String -&gt; FilePath
+    const filePath = s =&gt;
+        // The given file path with any tilde expanded
+        // to the full user directory path.
+        ObjC.unwrap(ObjC.wrap(s)
+            .stringByStandardizingPath);
+
+    // --------------------- GENERIC ---------------------
+    // Left :: a -&gt; Either a b
+    const Left = x =&gt; ({
+        type: "Either",
+        Left: x
+    });
+
+
+    // Right :: b -&gt; Either a b
+    const Right = x =&gt; ({
+        type: "Either",
+        Right: x
+    });
+
+    // bindLR (&gt;&gt;=) :: Either a -&gt;
+    // (a -&gt; Either b) -&gt; Either b
+    const bindLR = m =&gt;
+        mf =&gt; m.Left ? (
+            m
+        ) : mf(m.Right);
+
+
+    // either :: (a -&gt; c) -&gt; (b -&gt; c) -&gt; Either a b -&gt; c
+    const either = fl =&gt;
+        // Application of the function fl to the
+        // contents of any Left value in e, or
+        // the application of fr to its Right value.
+        fr =&gt; e =&gt; "Left" in e ? (
+            fl(e.Left)
+        ) : fr(e.Right);
+
+
+    // first :: (a -&gt; b) -&gt; ((a, c) -&gt; (b, c))
+    const first = f =&gt;
+        // A simple function lifted to one which applies
+        // to a tuple, transforming only its first item.
+        xy =&gt; [f(xy[0]), xy[1]];
+
+
+    // init :: [a] -&gt; [a]
+    const init = xs =&gt; (
+        // All elements of a list except the last.
+        ys =&gt; 0 &lt; ys.length ? (
+            ys.slice(0, -1)
+        ) : null
+    )(xs);
+
+
+    // last :: [a] -&gt; a
+    const last = xs =&gt;
+        // The last item of a list.
+        0 &lt; xs.length ? (
+            xs.slice(-1)[0]
+        ) : null;
+
+
+    // words :: String -&gt; [String]
+    const words = s =&gt;
+        // List of space-delimited sub-strings.
+        s.split(/\s+/u);
+
+    // MAIN ---
+    return main();
+})();</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>TrimResults</key>
+						<true/>
+						<key>TrimResultsNew</key>
+						<true/>
+						<key>UseText</key>
+						<true/>
+						<key>Variable</key>
+						<string>mp3Path</string>
+					</dict>
+					<dict>
+						<key>Conditions</key>
+						<dict>
+							<key>ConditionList</key>
+							<array>
+								<dict>
+									<key>ConditionType</key>
+									<string>Variable</string>
+									<key>Variable</key>
+									<string>mp3Path</string>
+									<key>VariableConditionType</key>
+									<string>Contains</string>
+									<key>VariableValue</key>
+									<string>/Library/Application Support/Accordance</string>
+								</dict>
+							</array>
+							<key>ConditionListMatch</key>
+							<string>All</string>
+						</dict>
+						<key>ElseActions</key>
+						<array>
+							<dict>
+								<key>Action</key>
+								<string>DisplayBriefly</string>
+								<key>IsDisclosed</key>
+								<false/>
+								<key>MacroActionType</key>
+								<string>InsertText</string>
+								<key>Text</key>
+								<string>%Variable%mp3Path% not recognisable as an MP3 path.</string>
+							</dict>
+						</array>
+						<key>MacroActionType</key>
+						<string>IfThenElse</string>
+						<key>ThenActions</key>
+						<array>
+							<dict>
+								<key>DisplayKind</key>
+								<string>Window</string>
+								<key>HonourFailureSettings</key>
+								<true/>
+								<key>IncludeStdErr</key>
+								<false/>
+								<key>IsDisclosed</key>
+								<false/>
+								<key>MacroActionType</key>
+								<string>ExecuteShellScript</string>
+								<key>Path</key>
+								<string></string>
+								<key>Source</key>
+								<string>Nothing</string>
+								<key>Text</key>
+								<string>afplay "$KMVAR_mp3Path"</string>
+								<key>TimeOutAbortsMacro</key>
+								<true/>
+								<key>TrimResults</key>
+								<true/>
+								<key>TrimResultsNew</key>
+								<true/>
+								<key>UseText</key>
+								<true/>
+							</dict>
+						</array>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>DeletePastClipboard</string>
+						<key>PastExpression</key>
+						<string>0</string>
+					</dict>
+				</array>
+				<key>CreationDate</key>
+				<real>655919777.30883801</real>
+				<key>CustomIconData</key>
+				<string>KMEC=Circle=KMCOLOR:255,255,255,0=􀌊=112=2=4=0=KMCOLOR:253,128,8,255</string>
+				<key>ModificationDate</key>
+				<real>656443425.57429302</real>
+				<key>Name</key>
+				<string>02)Read Current Hebrew Verse in Accordance</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>FireType</key>
+						<string>Pressed</string>
+						<key>KeyCode</key>
+						<integer>120</integer>
+						<key>MacroTriggerType</key>
+						<string>HotKey</string>
+						<key>Modifiers</key>
+						<integer>0</integer>
+					</dict>
+				</array>
+				<key>UID</key>
+				<string>FC38F1FD-9842-4BA1-83FE-4818331B70AA</string>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>Accordance</string>
+		<key>Targeting</key>
+		<dict>
+			<key>Targeting</key>
+			<string>Included</string>
+			<key>TargetingApps</key>
+			<array>
+				<dict>
+					<key>BundleIdentifier</key>
+					<string>com.OakTree.Accordance</string>
+					<key>Name</key>
+					<string>Accordance</string>
+					<key>NewFile</key>
+					<string>/Applications/Accordance.app</string>
+				</dict>
+			</array>
+		</dict>
+		<key>ToggleMacroUID</key>
+		<string>C58FF543-3529-4E13-A00E-36E3942CB7C1</string>
+		<key>UID</key>
+		<string>5CDEEA80-ADC6-4DFE-A8C2-9B425F9A067A</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>CreationDate</key>
+		<real>530171926.81920499</real>
+		<key>CustomIconData</key>
+		<string>KMEP-GenericApplication-/Applications/Accordance.app</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>Semaphore</string>
+						<key>NotifyOnTimeOut</key>
+						<false/>
+						<key>SemaphoreAction</key>
+						<string>Lock</string>
+						<key>SemaphoreName</key>
+						<string>Read Hebrew Verse in Accordance</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>TimeOutPeriod</key>
+						<real>1</real>
+					</dict>
+					<dict>
+						<key>ActionName</key>
+						<string>This version assumes /Library rather than ~/Library</string>
+						<key>DisplayKind</key>
+						<string>Window</string>
+						<key>HonourFailureSettings</key>
+						<true/>
+						<key>IncludeStdErr</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>ExecuteShellScript</string>
+						<key>Path</key>
+						<string></string>
+						<key>Source</key>
+						<string>Nothing</string>
+						<key>Text</key>
+						<string>afplay "$KMVAR_mp3Path" -r 0.8</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>TrimResults</key>
+						<true/>
+						<key>TrimResultsNew</key>
+						<true/>
+						<key>UseText</key>
+						<true/>
+					</dict>
+				</array>
+				<key>CreationDate</key>
+				<real>655489241.63270903</real>
+				<key>CustomIconData</key>
+				<string>KMEC=Circle=KMCOLOR:255,255,255,0=􀌊=112=2=4=0=KMCOLOR:253,128,8,255</string>
+				<key>ModificationDate</key>
+				<real>656443425.83150995</real>
+				<key>Name</key>
+				<string>03)Read Verse again at Low Speed</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>FireType</key>
+						<string>Pressed</string>
+						<key>KeyCode</key>
+						<integer>99</integer>
+						<key>MacroTriggerType</key>
+						<string>HotKey</string>
+						<key>Modifiers</key>
+						<integer>0</integer>
+					</dict>
+				</array>
+				<key>UID</key>
+				<string>314B5692-BCD4-4576-A749-E2613C1199C9</string>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>Accordance</string>
+		<key>Targeting</key>
+		<dict>
+			<key>Targeting</key>
+			<string>Included</string>
+			<key>TargetingApps</key>
+			<array>
+				<dict>
+					<key>BundleIdentifier</key>
+					<string>com.OakTree.Accordance</string>
+					<key>Name</key>
+					<string>Accordance</string>
+					<key>NewFile</key>
+					<string>/Applications/Accordance.app</string>
+				</dict>
+			</array>
+		</dict>
+		<key>ToggleMacroUID</key>
+		<string>C58FF543-3529-4E13-A00E-36E3942CB7C1</string>
+		<key>UID</key>
+		<string>5CDEEA80-ADC6-4DFE-A8C2-9B425F9A067A</string>
+	</dict>
+</array>
+</plist>
